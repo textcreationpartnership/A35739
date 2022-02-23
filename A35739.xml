@@ -1,0 +1,2084 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantus. Cantica sacra containing hymns and anthems for two voices to the organ, both Latine and English. Composed by Mr. Richard Dering. Dr. Christoph: Gibbons. Dr. Benjamin Rogers. Mr. Matth: Locke, and others. The second sett.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 69 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35739</idno>
+            <idno type="STC">Wing D1120</idno>
+            <idno type="STC">Wing P2455_CANCELLED</idno>
+            <idno type="STC">ESTC R215340</idno>
+            <idno type="EEBO-CITATION">99827240</idno>
+            <idno type="PROQUEST">99827240</idno>
+            <idno type="VID">31656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31656)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1511:3; 1846:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cantus. Cantica sacra containing hymns and anthems for two voices to the organ, both Latine and English. Composed by Mr. Richard Dering. Dr. Christoph: Gibbons. Dr. Benjamin Rogers. Mr. Matth: Locke, and others. The second sett.</title>
+                  <author>Playford, John, 1623-1686?</author>
+                  <author>Locke, Matthew, 1621 or 2-1677.</author>
+                  <author>Dering, Richard, 1580 (ca.)-1630.</author>
+                  <author>Gibbons, Christopher, 1615-1676.</author>
+                  <author>Rogers, Benjamin, 1616-1698.</author>
+               </titleStmt>
+               <extent>[4], 44; [4], 44; [4], 33, [1] p. : ill., music  </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Godbid, for John Playford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In three parts; each with identical title page.</note>
+                  <note>At end are contents of the last part.</note>
+                  <note>The names of the contributors are bracketed together on title page.</note>
+                  <note>Item identified on UMI microfilm as Wing P2455 (entry cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of the originals in: British Library; Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Part-songs, Sacred --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text>
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:31656:1" rendition="simple:additions"/>
+                  <pb facs="tcp:31656:1"/>
+                  <p>
+                     <hi>CANTVS.</hi>
+                  </p>
+                  <p>Cantica Sacra: Containing Hymns and Anthems FOR <hi>TWO VOICES</hi> to the <hi>ORGAN,</hi> both <hi>Latine</hi> and <hi>Engliſh.</hi>
+                  </p>
+                  <p>COMPOSED By
+<list>
+                        <item>Mr. <hi>Richard Dering.</hi>
+                        </item>
+                        <item>Dr. <hi>Chriſtoph: Gibbons.</hi>
+                        </item>
+                        <item>Dr. <hi>Benjamin Rogers.</hi>
+                        </item>
+                        <item>Mr. <hi>Matth: Locke,</hi> and Others.</item>
+                     </list>
+                  </p>
+                  <p>THE SECOND SETT.</p>
+                  <figure>
+                     <p>Gloria Deo</p>
+                     <p>Cantate Domino Canticu<g ref="char:cmbAbbrStroke">̄</g> Nouvm Psal: <hi>95</hi>
+                     </p>
+                     <figDesc>depiction of harpist</figDesc>
+                  </figure>
+                  <p>LONDON Printed by W. Godbid for J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:31656:2"/>
+                  <pb facs="tcp:31656:2"/>
+                  <head>To the KING'S moſt Excellent Majeſtie, CHARLES the Second KING of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defendor of the Faith, <hi>&amp;c.</hi>
+                  </head>
+                  <opener>
+                     <salute>Moſt Dread Sovereign,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hings Sacred are held most ſutable for a Sacred Hand; And this emboldens me to preſent Theſe <hi>Hymns</hi> and <hi>Anthems</hi> to Your <hi>MAJESTIE,</hi> the greatest part of them being the Senſe of the Royall Prophet King <hi>David;</hi> Which ſome of Your Majesties Servants, my Self and Others, have dreſs'd in this Muſicall, though modern Habit, principally to entertain Your own Royall and most Judicious Ear, that having paſs'd the higheſt Approbation may thereby appear without Exception. Your Majeſtie ſince Your moſt happy Restauration hath exten<g ref="char:EOLhyphen"/>ded Your Royall Bounty to the Advancement of this <hi>Divine Service</hi> more than any of Your Anceſtors, which must proceed from that <hi>Seraphick</hi> and judging Soul Your Majeſtie is endued with above other Kings. The King of kings grant Your <hi>MA<g ref="char:EOLhyphen"/>JESTY</hi> a Long and Proſperous Reign over all Your Subjects, which is the dayly Prayer of</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Majeſties Ever-Loyall and moſt Obedient Subject,</hi> John Playford.</signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:31656:3"/>
+                  <head>To all judicious <hi>Lovers</hi> and <hi>Underſtanders</hi> of <hi>MUSICK.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">H</seg>Aving formerly Publiſhed a Sett of Muſick in <hi>folio,</hi> Entituled, <hi>[CAN<g ref="char:EOLhyphen"/>TICA SACRA:]</hi> Containing <hi>Latin Hymns</hi> for Two and Three Voices to the ORGAN: all Compos'd by our Famous Countrey-man M<hi rend="sup">r</hi> 
+                     <hi>Richard Dering</hi> then Organiſt to the late Royal QUEEN: And thoſe finding ſo kind acceptance abroad, (eſpecially among the moſt judicious Profeſſors of Muſick) gave me Encouragement to ſpare nor Coſt nor Pains to obtain more of that nature, to publiſh as an Addition for the Benefit of ſuch as had the Former. Thoſe at the beginning (from the Second to the Eighth) are much of M<hi rend="sup">r</hi> 
+                     <hi>Dering</hi>'s Way, yet by ſome believed not to be his, but all that have heard them conclude them Excellently Good. The reſt that follow have their Authors Names written in their Foreheads, from whoſe Own Hands I receiv'd them: which choice HYMNS, when exactly perform'd, will more advance their due Commendations than my Pen is able.</p>
+                  <p>With theſe <hi>Latin Hymns</hi> I thought to have concluded this <hi>Second Sett;</hi> but ſome noble Friends Seeing and Hearing perform'd (at my Houſe) ſeveral Choice <hi>Engliſh Anthems</hi> of like nature for Two Voices to an ORGAN, which I had ob<g ref="char:EOLhyphen"/>tain'd from the Hands of theſe Excellent and knowing Maſters, <hi>viz:</hi> D<hi rend="sup">r</hi> 
+                     <hi>Gibbons,</hi> D<hi rend="sup">r</hi> 
+                     <hi>Rogers,</hi> M<hi rend="sup">r</hi> 
+                     <hi>Matthew Locke,</hi> and Others; They much importun'd me to Joyn them with the Reſt. To Gratifie their Deſires, and to Further any Thing that may conduce to the Advancement of this Divine Science, I willingly conſented, not doubting but all that Know me will Believe I am a devout Lover and En<g ref="char:EOLhyphen"/>courager of MUSICK: For which purpoſe, I have alſo adventured, at the End of all, to adde ſome few Compoſitions of mine Own; And if they find the leaſt approbation, they'll encourage my further attempts of more.</p>
+                  <p>As to the whole Work, I have (to the beſt of my skill) contriv'd it both for publick and private uſe, as will appear not only by the Fewneſs of Parts, but the <hi>CANTUS</hi> Parts are all Printed in the <hi>G ſol re vt</hi> Cliffe, and may properly be Sung by Men as well as Boyes or Weomen (to avoid the late Complaint againſt our uſe of ſo many various Cliffs.) And the <hi>Engliſh Anthems</hi> have often been Sung in ſeverall Cathedral Churches and Colledge Chappels where there are two eminent Voices.</p>
+                  <p>My End and Hopes are the Promotion of the Divine Uſe of MUSICK, To the Honour of HIM whoſe Gift it is to Mankind to Sing HIS Praiſes here on Earth, that they may Hereafter Sing Eternal <hi>HALLELUJAH's</hi> with the Bleſſed Saints and Angels in Everlaſting Glory,</p>
+                  <closer>
+                     <signed>Which will alſo be the Happineſs of <hi>John Playford.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div xml:lang="lat" type="songs">
+                  <pb n="1" facs="tcp:31656:3"/>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Ric. Dering.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Do╌mi╌ne Je╌ſu Chriſte O Domi╌ne Je╌ſu Chriſte A╌do╌ro te In Cruce vul╌ne╌ratum felle &amp; a╌ce╌to potatum Te deprecor te deprecor ut tua vulnera ſint re╌medium ani╌mae meae ſint remedium animae meae Mors quae tua ſit vita mea ſit vita mea ſit vita me╌a. Hallelujah, Hallelujah, Hallelujah, Hallelu<g ref="char:EOLhyphen"/>jah, Hallelujah, Hallelujah, Hallelujah, Halle╌lu╌jah.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="2" facs="tcp:31656:4"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">D</seg>
+                        <g ref="char:V">Ʋ</g>o Seraphin clamabant Duo Seraphin Clama<g ref="char:EOLhyphen"/>bant Alter ad Alterum Clamabant Clamabant Alter ad Alterum, San<g ref="char:EOLhyphen"/>ctus Dominus Deus, Deus Sabaoth, Dominus Deus Sa╌ba╌oth, Plena eſt Plena eſt omnes terra Gloria ejus Gloria e╌jus.</p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Sacrum convivium O Sacrum convivium in quo Chriſtus ſumitur in quo Chriſtus ſumitur in quo Chriſtus in quo Chri<g ref="char:EOLhyphen"/>stus ſumitur re╌colli╌tur me╌mo╌ri╌a memori╌a, recolli╌tur memori╌a Paſſionis e╌jus Paſſionis ejus Paſſionis e╌jus.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="3" facs="tcp:31656:4"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">T</seg>Res ſunt qui Teſtimonium dant in Coelo, Qui teſti<g ref="char:EOLhyphen"/>monium dant in Coelo dant in Coe╌lo tres ſunt qui teſti╌monium dant in Coelo dant in Coelo Pater &amp; Verbum &amp; Spiritus Sanctus. Pater &amp; Verbum &amp; Spiritus Sanctus. Et hi tres unum ſunt &amp; hi tres unum ſunt ſanctus Dominus Deus ſabaoth. Dominus Deus Sa╌ba╌oth Plena est plena eſt omnes terra Gloria ejus Glo╌ri╌a e╌jus.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="4" facs="tcp:31656:5"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">E</seg>Go ſum Reſur╌recti╌o Re╌ſur╌recti╌o &amp; Vi╌ta Reſur<g ref="char:EOLhyphen"/>recti╌o Re╌ſur╌recti╌o &amp; Vi╌ta E╌go ſum Re╌ſur╌recti╌o &amp; Vi╌ta &amp; Vi╌ta Re╌ſur╌recti╌o &amp; Vi╌ta qui credit in me qui credit in me etiam ſi mor╌tu╌us fue╌rit vivet fue╌rit vivet &amp; omnes qui vivet &amp; credit in me &amp; credit in me non mo╌ri╌e╌tur in aeter╌num non mo╌ri╌e╌tur in ae<g ref="char:EOLhyphen"/>ter╌num in ae╌ter╌num.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="5" facs="tcp:31656:5"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>AEtatus ſum in his quae dicta ſunt mihi: in his quae dicta ſunt mi ╌ hi: in Domum Domi╌ni i╌bi╌mus. In Domum Domi╌ni i╌bimus: ſtantes erant pedes nostri: ſtantes erant pedes nostri: in atriis tuis Hieruſalem in atriis tu╌is in atriis tuis in atriis tu╌is in atriis tuis in atriis tuis Hieruſalem.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="6" facs="tcp:31656:6"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">H</seg>Ieruſalem quae edificatur ut Ci╌vi╌tas quae edifi<g ref="char:EOLhyphen"/>catur ut Ci╌vi╌tas Cujus participa╌tio ejus id ipſum partici╌patio e╌ jus id ipſum participatio ejus id ipſum id ipſum Cujus partici╌patio e╌jus participatio ejus id ipſum illuc╌enim Aſcenderunt illu ce╌nim Aſcenderunt Tribus Domini teſti<g ref="char:EOLhyphen"/>monium Iſrael teſtimonium Iſra╌el ad Confitendum nomini Do╌mi╌ni ad Confitendum nomini Domi╌ni nomini Do╌mi╌ni.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="7" facs="tcp:31656:6"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Ric. Dering.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Crux ave ſpes uni╌ca O crux ave ſpes uni╌ca quae ſola fuiſti digna quae ſola fu╌i╌ſti quae ſola fuiſti di<g ref="char:EOLhyphen"/>gna por╌ta re talentum mundi Dulce linguam Dulce clavis Dulce linguam dulce clavis Dulcia ferrens ponde╌ra. Sal╌ va praeſentum cateruam in tuis hodie Laudibus Congre╌ga tam in tu╌is hodie Laudibus in tuis ho╌die Laudibus Congre ga ╌ tam Halle lu╌jah, Hallelujah, Hal<g ref="char:EOLhyphen"/>le╌lujah, Hallelu╌jah, Hallelu╌jah, Hallelujah, Hallelu╌jah, Hallelujah, Hallelujah, Hallelu╌jah, Hal╌le╌lu╌jah.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="8" facs="tcp:31656:7"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Henry Lawes.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">Q</seg>
+                        <g ref="char:V">Ʋ</g>is ſicut Dominus Deus no╌ſter Qui in Altis qui in altis habitat Et humilia reſpicit in coelo &amp; in ter╌ra Quis ſicut Dominus Deus no╌ſter? Quis ſimilis tui magnificus in ſancti╌ta╌te &amp; terribilis &amp; faciens &amp; faciens mira╌bilia Benedictus qui ſedes ſuper Cherubin &amp; in╌tue╌ris Abyſſos Laudabilis &amp; glorioſus &amp; ſuper Exaltatus in ſecula in ſecula in ſecu╌la in ſe╌cu╌la ſeculo╌rum.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="9" facs="tcp:31656:7"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> George Jeffreyes.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">E</seg>Rit Glori╌a Do╌mi╌ni in ſeculum, Erit Gloria Domi╌ni in ſeculum lae╌tabi╌tur Dominus, laetabi<g ref="char:EOLhyphen"/>tur Dominus in operibus ſu╌is in operibus ſuis, intuetur ter<g ref="char:EOLhyphen"/>ram &amp; contremiſcit intuetur terram &amp; contre ╌ mi ╌ ſcit tangit montes &amp; fu╌mant, tangit montes et fumant et fu ╌ mant, tangit montes &amp; fumant &amp; fumant, Cantabo Domino in vita mea in vita mea vita me╌a, Cantabo Do╌mino, in vita me╌a, me╌a, in vita mea, vita me╌a.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="10" facs="tcp:31656:8"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Christopher Gibbons.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">C</seg>Ele╌brate Dominum proclama╌te nomen e╌jus, Cele╌brate Dominum proclama╌te no╌men e╌jus notas facite actiones e╌jus notas facite actio╌nes e╌jus. Ca╌ni╌te Je<g ref="char:EOLhyphen"/>hovae. Et Landate eum confabulamini de omnibus mi<g ref="char:EOLhyphen"/>raculis ejus. Quaeri╌te Jehovam, Quaerite Jehovam &amp; robur e╌jus, Quaerite faciem ejus in aeternum Ille Jeho╌vae De╌us noſter, In tota ter╌ra ſunt ejus Ju╌di╌ci╌a, De cor &amp; Majeſtas coram e╌ o, Robur &amp; gandium in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nus Je ╌ h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>╌vae</p>
+                     <pb n="11" facs="tcp:31656:8"/>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Et eſt Laudandus reverendus ſuper omnes De╌os, Et eſt Laudandus reverendus ſuper omnes Deos ſuper omnes Deos. Hallelujah, Hallelu╌jah, Halle╌lu╌jah, Halle<g ref="char:EOLhyphen"/>lujah, Hallelujah, Hallelujah, Halle╌lujah, Halle╌lu╌jah, Hallelujah, Halle╌lujah, Hal╌le╌lu╌jah, Hallelu╌jah, Hallelu╌jah, Hal╌le╌lu╌jah.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="12" facs="tcp:31656:9"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">E</seg>Xaltabo te Domine, Exaltabo te Domine, te Domi<g ref="char:EOLhyphen"/>ne, Quoniam ſuſcepiſti me, quoniam ſuſcepiſti me ſuſcepiſti me ſuſce<g ref="char:EOLhyphen"/>piſti me: Nec delectaſti inimicos meos ſu╌per me ſuper me. Dominus Deus meus clamavi, clamavi, clamavi ad te, clama<g ref="char:EOLhyphen"/>vi, clamavi, clamavi ad te, clamavi, clamavi ad te &amp; ſanaſti me. Pſallite Domino, Pſallite Domino ſancti ejus ſancti ejus et confi<g ref="char:EOLhyphen"/>temini &amp; confi╌te╌mi╌ni memo╌ri╌ae ſanctitatis e╌jus. Halleluja, halleluja, Hallelujah, halleluja, halleluja, halleluja, halleluja, Halleluja, halleluja, Hallelujah, halleluja, halleluja, halleluja, halleluja.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="13" facs="tcp:31656:9"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">A</seg>
+                        <g ref="char:V">Ʋ</g>divit Dominus, audivit Dominus &amp; miſertus eſt me╌i Dominus factus eſt Dominus factus eſt adjutor me╌us. Convertiſti planctum meum in gaudium mihi concidiſti ſaccum meum &amp; circunde╌di╌ſti laetiti╌a. <g ref="char:V">Ʋ</g>t cantet tibi glo╌ria me<g ref="char:EOLhyphen"/>a a &amp; non compungar Domi╌ne Deus meus Domi╌ne Deus meus Domine Deus meus in ae╌ter╌num confitebor confi╌tebor confitebor confi╌tebor ti╌bi. Hallelujah, hallelujah, hallelujah, Hallelujah, hallelujah, hallelujah, hallelujah, hallelujah, hallelujah, halle<g ref="char:EOLhyphen"/>lujah, Hallelujah, hallelujah, hallelujah, hallelujah, Halle╌lu╌jah.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="14" facs="tcp:31656:10"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">D</seg>Eus miſereatur noſtri &amp; benedicat no╌bis illuminet vultum ſuum ſuper nos &amp; miſereatur noſtri et miſere<g ref="char:EOLhyphen"/>atur no╌ſtri <g ref="char:V">Ʋ</g>t cognoſcamus in terra viam tuam in omnibus genti╌bus ſa╌lu╌ta╌re tuum in omnibus gentibus ſalutare ſa╌lu╌tare tuum confiteantur tibi confiteantur tibi populi De<g ref="char:EOLhyphen"/>us confiteantur tibi populi Deus confiteantur tibi popu╌li omnes. Laetentur &amp; exultent gentes quoniam Judicas populos in ae╌qui╌ta╌te &amp; Gentes in terra Deri╌gis &amp; Gen<g ref="char:EOLhyphen"/>tes in terra Derigis.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="15" facs="tcp:31656:10"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">I</seg>
+                        <g ref="char:V">Ʋ</g>bilate Deo jubilate Deo om╌nis ter╌ra Pſalmum dicite Pſalmum dicite nomini e╌jus date gloria laudi e╌jus. Omnes terra adoret te adoret te &amp; Pſallat tibi: Pſalmum dicat nomini tuo Pſalmum dicat nomini tu╌o nomini tu╌o Pſalmum dicat nomini tuo nomini tu╌o. Benedicite Gentes Benedicite gentes Deum no╌ſtrum, &amp; auditam faci╌te vocem, &amp; auditam facite vocem laudis ejus laudis e╌jus. Haleluja, haleluja, halelujah, ha╌le╌luja, halelujah, haleluja, halelu<g ref="char:EOLhyphen"/>ja, haleluja, hale╌lu╌jah, haleluja, haleluja, halelujah, halelujah, halelujah.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="16" facs="tcp:31656:11"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">A</seg>Gno╌ſce, agno╌ſce O Christiane digni<g ref="char:EOLhyphen"/>ta ╌tem tuam, Agno╌ſce O Chri╌sti╌a╌ne digni<g ref="char:EOLhyphen"/>ta╌ tem, tuam, memento memento Cujus capitis &amp; cujus corporis ſis membrum reminiſcere quod erutus de potestate tenebrarum, tenebrarum, Tranſlatus es tranſlatus es in Dei Lumen &amp; Regnum, Hallelujah, hallelujah, hal╌le╌lu╌jah, Hallelujah, hal╌le╌lujah, Halle╌lu╌jah. Tranſlatus es in Dei Lumen &amp; Re╌gnum, Halle╌lujah, hal╌le<g ref="char:EOLhyphen"/>lujah, Hallelujah, hallelujah, Hallelu╌jah.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="17" facs="tcp:31656:11"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">R</seg>Ecordare recordare Domine creaturae tu╌ae crea╌turae tuae creaturae tu╌ae quam tuo ſanguine redi╌mi╌ſti poenitet me peccaſſe poenitet me ╌ peccaſſe cupio emen<g ref="char:EOLhyphen"/>dare emendare quod fe╌ ci Aufer ergo à me cle<g ref="char:EOLhyphen"/>mentiſſime Pater omnes iniquitates &amp; peccata mea omnes iniquitates &amp; pec╌ca╌ta mea peccata peccata me╌a, Aufer ergo à me clemen<g ref="char:EOLhyphen"/>tiſſime Pa╌ter omnes in╌i╌qui╌ta╌tes &amp; pecca╌ta mea omnes in<g ref="char:EOLhyphen"/>iqui╌ta╌tes &amp; pec╌ca╌ta mea peccata pecca╌ta mea.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="18" facs="tcp:31656:12"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg>Mnes gentes omnes gentes plaudite plaudite plaudite manibus omnes gentes omnes gentes plau╌dite plaudite ma╌nibus. Plau╌dite plaudite ma╌ni╌bus <stage>Soft</stage> plaudite ma╌ni╌bus Jubilate Deo in voce exul╌tati╌o╌nes, jubilate. Deo in vo╌ce ex╌ul╌ta╌ti╌o╌nes. <stage>Alone.</stage> Subjecit populos nobis &amp; gentes ſubpedibus no╌ſtris, El╌i╌git nobis haereditatem ſuam ſpe╌ci╌em Jacob quam dile╌xit ſpeciem Ja╌cob quam di╌le╌xit <stage>Cho:</stage> omnes gentes omnes gentes plaudite plaudite plaudite manibus omnes gentes omnes gentes plau╌dite
+<pb n="19" facs="tcp:31656:12"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> plaudite manibus, Plau╌dite plaudite ma╌ni╌bus <stage>Soft.</stage> plaudi╌te ma╌ni╌bus.</p>
+                     <div n="2" type="part">
+                        <head>The Second Part.</head>
+                        <p>
+                           <gap reason="music">
+                              <desc>〈♫〉</desc>
+                           </gap> Pſallite De╌o noſtro Pſal╌lite Re╌gi nostro pſal╌lite pſallite pſal╌li╌te pſal╌lite pſallite pſal╌lite. Quoniam Rex omnis terrae Deus, quoniam Rex omnis terrae Deus pſallite pſallite ſa╌pi╌en╌ter pſalli╌te Pſalli╌te ſa╌pi╌en╌ter. Halelujah, ha╌lelujah, halelujah, hal╌lelu╌jah, Hal╌le╌lu╌jah, Hale╌lujah, Hale╌lu╌jah, Hale lu╌jah, <stage>Soft.</stage> Ha╌le╌lujah, Halelu╌jah, Hale╌lu╌jah.</p>
+                     </div>
+                  </div>
+                  <div type="hymn">
+                     <pb n="20" facs="tcp:31656:13"/>
+                     <opener>
+                        <hi>A</hi> 2 <hi>Voc.</hi> Trebles or Tenors.
+<byline>Mr. <hi>Matthew Locke.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Domine Jeſu Chriſte, adoro te adoro te in Cruce Vulne╌ra╌tum felle &amp; ace╌to potatum me╌to po╌ta╌tum Te deprecor ut tu╌am vulnera ſint remedium animae meae morſque morſque tuae fit vita mea morſque morſque tu<g ref="char:EOLhyphen"/>a fit vita me╌a morſque morſque tu╌a ſit vi╌ta me╌a.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="21" facs="tcp:31656:13"/>
+                     <opener>
+                        <hi>A</hi> 2 <hi>Voc.</hi> Trebles or Tenors.
+<byline>Mr. <hi>Matthew Locke.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">C</seg>Antate Domino canticum novum canticum novum, Cantate Domino cantate Domino om╌nes ter╌ra, Cantate Domino can╌ti<g ref="char:EOLhyphen"/>cum novum Can╌ta╌te Domino omnis ter╌ra, cantate cantate Domino om╌nis ter╌ra Cantate Domino om╌nis ter╌ra. Cantate cantate cantate Domino, &amp; Benedicite nomen e╌jus: Cantate cantate Domino, &amp; Benedicite nomen ejus no╌men ejus Annunciate à die in diem ſalutare ſalutare e╌jus, Annunciate à die in diem ſalutare ſalutare e╌jus. Hallelu╌jah, ╌ Halle<g ref="char:EOLhyphen"/>lujah, Hallelu╌jah ╌ Hallelu╌jah, Halle╌lu╌jah, Hallelu╌jah, Hal╌le╌lu╌jah, Halle╌lu╌jah, Hallelu╌jah.</p>
+                  </div>
+               </div>
+               <div xml:lang="eng" type="songs">
+                  <pb n="22" facs="tcp:31656:14"/>
+                  <head>¶ Here beginneth <hi>Engliſh Anthems</hi> and <hi>Hymnes</hi> for Two Voices to the ORGAN.</head>
+                  <div type="hymn">
+                     <opener>An Anthem for <hi>2</hi> Voc. <hi>Trebles or Tenors.</hi>
+                        <byline>
+                           <hi>Dr.</hi> Chr. Gibbons.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">S</seg>Ing unto the Lord, Sing unto the Lord O ye Saints of His, And give Thanks at the remembrance of His Holineſs: For his Anger endures but a Moment, but a Moment, a Moment, In His favour is life: Weeping may endure for a Night Weeping may endure for a Night, But Joy comes in the Morning, Comes in the Mor╌ning. Lord, Lord, Lord by Thy favour Thou haſt made my Mountain to ſtand ſtrong, Thou didſt hide Thy Face and I was troubled, I was troubled. I cry'd unto Thee O Lord, And unto Thee Lord I made my ſupplica╌tion. What profit is there in my blood, What profit is there in my blood, When I goe
+<pb n="23" facs="tcp:31656:14"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> down in╌to the Pit? Shall the Duſt praiſe Thee, or ſhall it de╌clare Thy truth? Hear O Lord, And have Mercy upon me, And have Mercy up╌on me: Lord be Thou my Helper, be Thou my Helper; Lord be Thou my Helper, be thou my Hel╌per.</p>
+                  </div>
+                  <div type="hymn">
+                     <opener>An Anthem for <hi>2</hi> Voc. <hi>Trebles or Tenors.</hi>
+                        <byline>
+                           <hi>Dr.</hi> Chr. Gibbons.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">T</seg>Each me O Lord the Way of Thy Statutes, Thy Statutes, and I ſhall keep it, I ſhall keep it unto the end. Give me Underſtanding, And I ſhall keep Thy Law: yea, I ſhall keep it; yea, I ſhall keep it with my whole Heart. Make me to goe in the Paths Of thy Commandements, for there╌in is my deſire. In╌cline my Heart un╌to Thy Teſti╌monies,
+<pb n="24" facs="tcp:31656:15"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> And not to Covetouſneſs, and not to Covetouſ╌neſs. O Turn away mine eyes, Leſt they behold Vanity, Va╌ni╌ty. And quicken Thou me in Thy way. O ſtabliſh Thy Word in Thy Servant, That I may fear Thee, I may fear Thee. Take away the Rebuke That I am afraid of, a╌fraid of, For thy Judgments are good. Behold, Behold my delight, my delight is in Thy Co<g ref="char:cmbAbbrStroke">̄</g>mande<g ref="char:EOLhyphen"/>ments. O quicken me, quicken me In Thy Righteouſneſs.</p>
+                  </div>
+                  <div type="hymn">
+                     <opener>An Anthem for <hi>2</hi> Voc. <hi>Trebles or Tenors.</hi>
+                        <byline>
+                           <hi>Dr.</hi> Chr. Gibbons.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Verſe.</stage> 
+                        <seg rend="decorInit">H</seg>Ow long, how long wilt thou forget me ó Lord, for ever? How long wilt Thou hide Thy face from me? How long ſhall I ask Councel in my Soul, ask councel in my Soul, and be thus vexed in my Heart? How long
+<pb n="25" facs="tcp:31656:15"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ſhall mine Enemies Triumph over me, Triumph over me? Conſider and hear me ô Lord my God. Lighten mine eyes, mine eyes, that I ſleep not in Death. <stage>
+                           <hi>Chorus</hi> 3 <hi>Voc.</hi>
+                        </stage> 
+                        <hi>Conſider and hear me ô Lord my God, Conſider and hear me ô Lord my God. Lighten mine eyes, lighten mine eyes that I ſleep not in Death, that I ſleep not in death,</hi> 
+                        <stage>Verſe.</stage> 
+                        <hi>Leſt mine Enemies ſay, We have prevailed a╌gainſt him: For if I be caſt down, they that Trouble me, that trouble me will Rejoice at it. But my truſt is in Thy Mercy, And my heart is joyfull, and my heart is joyfull in Thy Salvation.</hi> 
+                        <stage>
+                           <hi>Chorus</hi> 3 <hi>Voc.</hi>
+                        </stage> 
+                        <hi>I will ſing of the Lord, I will ſing of the Lord, Becauſe He hath dealt ſo Lovingly with me: Yea, I will Praiſe the Name of the Lord moſt Higheſt; Yea, I will Praiſe the Name of the Lord moſt Higheſt, moſt higheſt.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="26" facs="tcp:31656:16"/>
+                     <opener>
+                        <hi>A Hymn:</hi> 2 Trebles or Tenors.
+<byline>D. <hi>Benjamin Rogers.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>Ift up your heads great Gates and ſing, Now Glory comes, now Glory comes, and Glories King. Now by your High all golden way, The fairer Heaven comes home to day. Hark now the Gates are ope and Hear the Tune of each triumphant Sphear, Where every Angel as he ſings Keeps time with his applau╌ding, applauding Wings, And makes Heavens Loftieſt Roof rebound. The treaſures of this Noble Sound, Which our poor Tongues ſhall as they may Reſtore to them again, and ſay, Reſtore to them a<g ref="char:EOLhyphen"/>gain, and ſay, again, and ſay, reſtore to them again, and ſay, <hi>Hallelujah, Hallelujah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Halle╌lu╌jah, <g ref="char:proportion2">∝</g> Halle╌lu╌jah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Halle╌lu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="27" facs="tcp:31656:16"/>
+                     <opener>
+                        <hi>A</hi> 2 <hi>Voc.</hi> Trebles or Tenors.
+<byline>Dr. <hi>Benjamin Rogers.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ET all with ſweet accord Clap hands, Clap hands, their Voices raiſe, In honour of the Lord, Who from above, who from above Lightning flings. The King of kings, the King of kings of all that move. The Nations of our Foes beneath our feet He hath thrown: A fair poſſeſſion choſe for us that were his own, for us that wer his own. In triumph God aſcends with Trumpets ſhrill. O praiſe Him with the beſt of skill. For God is King of all the Earth. Sing praiſes, ſing praiſes with Sacred Mirth, ſing prai<g ref="char:EOLhyphen"/>ſes, ſing praiſes, ſing praiſes, ſing praiſes with Sacred Mirth. <hi>Hallelujah, Halle<g ref="char:EOLhyphen"/>lujah, Halle╌lu╌jah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Halle<g ref="char:EOLhyphen"/>lujah, Halle╌lu╌jah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Halle lu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="28" facs="tcp:31656:17"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">T</seg>Ell Mankind JEHOVAH Reigns, He ſhall bind the World in Chains, So as it ſhall never ſlide, And with Sacred Juſtice guide. Let the ſmiling Heavens rejoice, Joyfull Earth exalt her Voice. Let the Dancing Billows Rore, Eccho's anſwer from the Shore. Fields their Flowry Mantles ſhake; All ſhall in their Joy partake. Whilſt the Wood Muſicians Sing To the ever Youthfull Spring. Fill His Courts with Sacred Mirth; He, He comes to Judge the Earth. Juſt╌ly He the World ſhall ſway, And His Truth to Men diſplay. <hi>Hallelujah, Hallelujah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Hallelujah,</hi> 
+                        <stage>Drag.</stage> 
+                        <hi>Halle╌lujah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Halle╌lujah, Hallelujah, Halle╌lu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="29" facs="tcp:31656:17"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Mich: Wiſe.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Verſe alone.</stage> 
+                        <seg rend="decorInit">I</seg> Charge you, I charge you ô Daughters of <hi>Je╌ru╌ſalem,</hi> If ye find my Beloved, I charge you, I charge you that ye tell Him I am Sick of Love, that I am Sick of Love. <stage>Verſe alone.</stage> My Beloved is White and Ruddy, White and Ruddy, The Chiefeſt among Ten Thouſand, thouſand, thou<g ref="char:EOLhyphen"/>ſand, Ten thouſand, thouſand, thouſand. <stage>Chorus.</stage> 
+                        <hi>Yea, He is altogether Lovely, altogether Lovely, <stage>Soft.</stage> Altogether Lovely: This is my Beloved, this is my Beloved, This is my Be<g ref="char:EOLhyphen"/>loved, my Be╌lo╌ved, and this is my Friend, ô Daughters, ô Daughters of</hi> Je<g ref="char:EOLhyphen"/>ru╌ſa╌lem.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="30" facs="tcp:31656:18"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> John Jackson.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Chorus.</stage> 
+                        <seg rend="decorInit">S</seg>ET up Thy ſelf, ô God, a╌bove the Heavens, Set up Thy ſelf, O God, above the Heavens, <stage>Drag.</stage> And Thy Glory above all the Earth, <stage>Soft.</stage> And Thy Glory above all the Earth. <stage>Verſe.</stage> 
+                        <hi>My Heart is fixed, O God, my Heart is fixed, My Heart is fixed, O God, my Heart is fixed: I will ſing and give praiſe, and give praiſe. <stage>Alone.</stage> I will give Thanks unto Thee, O Lord, a╌mong the people: And I will ſing unto Thee among the Nations, and I will ſing unto Thee unto Thee among the Na╌tions.</hi> 
+                        <stage>Chorus.</stage> For the greatneſs of Thy Mercy reacheth unto the Heavens, And Thy Truth un╌to the Clouds. Set up Thy ſelf ô God a╌bove the Heavens, Set up Thy ſelf ô God a╌bove the Heavens,
+<pb n="31" facs="tcp:31656:18"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Drag.</stage> And Thy Glory above all the Earth, <stage>Soft.</stage> And Thy Glory above all the Earth. <hi>Hallelujah, <g ref="char:proportion2">∝</g> Halle╌lu╌jah, Hallelujah, <g ref="char:proportion2">∝</g> Halle<g ref="char:EOLhyphen"/>lu╌jah, Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Halle╌lu╌jah, Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Halle<g ref="char:EOLhyphen"/>lujah, Hallelujah, <g ref="char:proportion2">∝</g> 
+                           <stage>Soft.</stage> Halle╌lu╌jah,</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="32" facs="tcp:31656:19"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> John Jackson.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ET God ariſe, and let His Enemies be ſcattered: Let them alſo that hate Him flee before Him, Let them alſo that hate Him flee before Him. Like as the Smoke vaniſheth, ſo ſhalt thou drive them away, ſo ſhalt thou drive them away, ſo ſhalt thou drive them away. And like as Wax melteth at the fire, ſo ſhall the ungodly periſh at the preſence of God: But let the Righteous be glad and rejoice, be glad and rejoice be╌fore Him. Let them alſo be merry, be merry and joyfull, Let them alſo be merry and joyfull. <hi>Hallelujah. Hallelujah, <g ref="char:proportion2">∝</g> Halle╌lu╌jah, Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, Halle<g ref="char:EOLhyphen"/>lu╌jah, Halle╌lujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hal╌le╌lu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="33" facs="tcp:31656:19"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> M. L.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ORD, Let me know my End, And the Number of my dayes, That I may be certified, How long I have to Live, how long I have to Live. Behold, Thou haſt made my dayes as it were a ſpan long, As it were a ſpan long, And mine Age is even as nothing in reſpect of Thee, And mine Age is even as nothing in reſpect of Thee, And verily every man living, every man living is alto<g ref="char:EOLhyphen"/>gether vanity, altogether vanity, alto╌ge╌ther vanity. For man walks in a vain ſhadow, in a vain ſhadow, And diſquiets himſelf, diſquiets himſelf in vain: He heaps up riches, and cannot tell who ſhall gather them. And cannot tell who ſhall gather them, <stage>Soft.</stage> and cannot tell who ſhall gather them.</p>
+                     <pb n="34" facs="tcp:31656:20"/>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> And now Lord, and now Lord, what is my hope, my hope? Truly my hope is even in Thee, truly my hope is even in Thee, my hope is even in Thee, truly, truly my hope is even in Thee, my hope is even in Thee, is even in Thee, my hope is E╌ven in Thee. For I am a Stranger with Thee, And a Sojourner as all my Fathers were, And a Sojourner as all my Fathers were, as all my Fathers were, <stage>Soft.</stage> as all my Fathers were. O ſpare me a little, That I may recover my ſtrength, That I may recover my ſtrength, Spare me a little, That I may recover my ſtrength, before I goe hence, before I goe hence, And be no more, no more ſeen, And be no more, no more, And be no more, no more ſeen, And be no more ſeen, no more ſeen.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="35" facs="tcp:31656:20"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Iſaac Blackwell.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">B</seg>E╌HOLD, How good &amp; joyfull a thing it is, Brethren, Brethren, to dwell together, together, to dwell together, to╌gether, to dwell together in u╌nity. 'Tis like the pretious Ointment upon the Head that ran down unto the Beard, that ran down unto the Beard, even unto <hi>Aaron</hi>'s Beard, and went down unto the Skirts, and went down unto the Skirts of his Cloa╌thing. Like as the Dew of <hi>Hermon</hi> which fell upon the Hill of <hi>Sion.</hi> For there the Lord promis'd His Bleſſing, For there The Lord promis'd His Bleſſing, and Life for╌evermore. <hi>Hallelujah, <g ref="char:proportion2">∝</g> Halle<g ref="char:EOLhyphen"/>lujah, Hallelujah. Halle╌lujah, <g ref="char:proportion2">∝</g> Halle╌lujah, Halle╌lujah, <g ref="char:proportion2">∝</g> Hallelujah, Halle╌lu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="36" facs="tcp:31656:21"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Iſaac Blackwell.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ET My Complaint come before Thee, O Lord, Let my Com<g ref="char:EOLhyphen"/>plaint come before Thee, O Lord. Give me underſtanding, give me underſtanding According to Thy Word, according to Thy Word. My Lips ſhall ſpeak of Thy Praiſe when Thou haſt taught, when Thou haſt taught me Thy Statutes, when Thou haſt taught me Thy Statutes: Yea, my tongue ſhall Sing of Thy word, Yea, my Tongue ſhall Sing of Thy Word, for all Thy Commandments are Righteous, for all Thy Commandments are Righteous. <hi>Hallelujah, Halle╌lujah, <g ref="char:proportion2">∝</g> Halle╌lujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hal╌le<g ref="char:EOLhyphen"/>lujah, Hallelujah, <g ref="char:proportion2">∝</g> Halle╌lujah, <g ref="char:proportion2">∝</g> Halle╌lu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="37" facs="tcp:31656:21"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Iſaac Blackwell.</byline>
+                     </opener>
+                     <head>
+                        <hi>A Hymn for <hi>Good-Friday.</hi>
+                        </hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">S</seg>EE Sinfull Soul, thy Saviours ſuffrings ſee, See His Bleſſed Hands &amp; Feet fixt to a Tree. Obſerve, obſerve what Rivelets of Blood ſtream forth His pain╌full pierced Side, His pain╌full pierced Side, Each drop, each Drop more worth than Tongue of Men &amp; Angels can Expreſs: Haſt to Him curſed Caitiff &amp; confeſs, All thy Misdeeds, &amp; ſigh╌ing ſay, 'Twas I That caus'd Thee thus My Lord &amp; Chriſt to Dye. O let Thy Death ſecure my Soul from fears, And I will waſh Thy Wounds in briniſh Tears. Grant me ſweet JESU from Thy pretious ſtore, One Cleanſing Drop, One Cleanſing Drop, with Grace, to Sin no more.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="38" facs="tcp:31656:22"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> How pleaſant &amp; how fair, Lord of Hoſt, Thy dwellings are: One Day in Thy Courts alone, Farre Exceeds a Mil╌lion. I'de rather have the Loweſt Place, In Thy Houſe and ſee Thy Face, Than with wicked men poſ╌ſeſs, All that they call Hap╌pineſs. <hi>
+                           <stage>Verſe alone.</stage> Thrice happy He, of whom thou mak'ſt thy choice, And to Thy Service tak'ſt that may within Thy Courts reſide, There with Thy goodneſs ſatisfy'd, And taſt of that ſincere delight which never cloyes the Appetite.</hi> 
+                        <stage>Chorus.</stage> O Thou Sheild of our defence! O Thou Sun, whoſe influence ſweetly glydes in╌to our Hearts! Thou, who all good, who all Good to Thine impart. Happy who on Thee, who on Thee depend, And Thou their End. And Thou their End, And Thou their End. Happy, happy who on Thee depend, Thine their way, Thine their Way, Thine, Thine their Way, their Way, and Thou their End.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="39" facs="tcp:31656:22"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg>UT of the deep have I called to Thee ô Lord, Lord hear, Lord hear my voice. O let Thine Ears conſider well the Voice, the Voice of my Complaint. If Thou Lord ſhouldſt be extream, extream to mark what is done amiſs, O Lord, ô Lord, who may a╌bide it. But there is mercy with Thee, therefore ſhalt Thou be feared, therefore ſhalt Thou be fea╌red, <stage>Soft.</stage> be fea╌red. I look for the Lord, My Soul doth wait for Him: In His Word is my truſt, In His Word is my truſt, is my truſt. My Soul fle╌eth unto the Lord before the Morning watch, I ſay before <g ref="char:proportion2">∝</g> O Iſra╌el, ô Iſ╌ra el truſt in the Lord, truſt <g ref="char:proportion2">∝</g> in the Lord: For w<hi rend="sup">th</hi> the Lord there is mercy, there is mercy, And with Him, and with Him is plenteous, is plenteous Redemption. <hi>Verte</hi>
+                        <pb n="40" facs="tcp:31656:23"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <hi>Hal╌le╌lu╌jah, <g ref="char:proportion2">∝</g> Hal╌le╌lu╌jah, <g ref="char:proportion2">∝</g> Hallelujah, Halle╌lujah <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Halle╌lu╌jah, Hallelu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Be joyfull in the Lord all ye Lands. Serve the Lord, the Lord with gladneſs, And come before His preſence with a Song. Be ye ſure that the Lord He is God, it is He that hath made us and not we our ſelves: We are His people, and the Sheep, &amp; the Sheep, &amp; the Sheep of His Paſture. O goe your wayes in╌to His Gates with Thanksgiving, And into His Courts with Praiſe, And in╌to His Courts with Praiſe, And in╌to His Courts with Praiſe, His Courts with Praiſe, Be Thankfull, Thankfull un╌to Him,
+<pb n="41" facs="tcp:31656:23"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> And ſpeak good, good of His Name, good of His Name, and ſpeak good of His name. For the Lord is gra╌cious, is gracious, And His Mercy is Everlaſting, is everlaſting, everlaſting, And His Truth endureth from Gene<g ref="char:EOLhyphen"/>ration to Generation, And His Truth endureth from Gene╌ra╌tion to Gene╌ra╌ti╌on. Glory be to the Father, And to the Son, And to the holy Ghoſt, the Holy Ghoſt: As it was in the beginning, is now, and ever ſhall be, and ever ſball be, and ever ſhall be world without end, without end, Amen, A╌men.</p>
+                  </div>
+                  <div type="hymn">
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">I</seg> Am well pleaſed that the Lord hath heard the voice of my prayer, hath heard the voice, hath heard the voice, the voice of my prayer:
+<pb n="42" facs="tcp:31656:24"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> That He hath enclin'd His ear unto me, Therefore will I call upon Him, will I call upon Him as long as I live, as long as I live. <stage>Verſe alone.</stage> 
+                        <hi>What reward ſhall I give unto the Lord for all the benefits that He hath done to me?</hi> I will offer to Thee the Sacrifice of Thanksgiving, And will call upon the Name of the Lord, And will call up<g ref="char:EOLhyphen"/>on the Name of the Lord. I will thank Thee, for Thou haſt heard me, And haſt delivered me, &amp; haſt delivered me de╌li╌vered me when I was in Trou<g ref="char:EOLhyphen"/>ble, when I was in Trou╌ble. O give Thanks, O give Thanks un╌to the Lord, un<g ref="char:EOLhyphen"/>to the Lord, For He is gracious, For He is gracious, and His mercy endureth for e╌ver, And his mercy endu╌reth forever, A╌men.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="43" facs="tcp:31656:24"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <head>
+                        <hi>An Anthem of <hi>Thanks-giving.</hi>
+                        </hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Lord Thou haſt brought up my Soul from the Grave, &amp;c. <stage>Verſe.</stage> Give Thanks, give thanks, ô Iſrael unto God the Lord, unto God the Lord In the Congregation, In the Congre<g ref="char:EOLhyphen"/>ga╌tion, from the ground, fro<g ref="char:cmbAbbrStroke">̄</g> 
+                        <g ref="char:proportion2">∝</g> fro<g ref="char:cmbAbbrStroke">̄</g> the <g ref="char:proportion2">∝</g> fro<g ref="char:cmbAbbrStroke">̄</g> the ground of the heart. <stage>
+                           <hi>Firſt Chorus, a</hi> 3 <hi>voc.</hi>
+                        </stage> 
+                        <hi>O come ſing unto the Lord ye Saints of His, And give thanks at the remembrance of his Holineſs, For the Lord is my ſtrength and my Song, And He is become my Salvation. O that men would therefore praiſe the Lord for His Goodneſs, And declare the Wonders that He doth for the Children of Men, for the Children of Men.</hi> 
+                        <stage>Verſe.</stage> O come, O come hither and hearken all ye that fear the Lord, And I ſhall tell you what He hath done for my poor Soul. Oh what great Troubles haſt thou ſhewed me, and yet didſt Thou turn and refreſh me. Of the Earth again. <hi>Verte</hi>
+                        <pb n="44" facs="tcp:31656:25"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Therefore lets Sing unto the Lord, let us Sing un╌to the Lord. And let us hearti╌ly rejoice in the ſtrength, in the ſtrength, in the ſtrength, in the ſtrength of our ſal╌va╌ti╌on. <stage>
+                           <hi>Second Chorus:</hi> 3 <hi>voc.</hi>
+                        </stage> 
+                        <hi>Sing aloud unto God our ſtrength: Make a joyfull noiſe unto the God of Iſrael. O let your Songs be of Him, and Praiſe Him: And let your talking be of all His great and wondrous Works: For who is God ſave the Lord: Or who is a Rock ſave our God. Bleſſed be the Lord God of Iſrael, from Everlaſting to Everlaſting, And let all the People ſay</hi> A╌men. Glory be to the Father, and to the Son, and to the Holy Ghoſt: As it was in the beginning, and is now, and ever ſhall be, and ever ſhall be world without end, A╌men, A╌men.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text>
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:31656:25"/>
+                  <p>
+                     <hi>BASSVS.</hi>
+                  </p>
+                  <p>Cantica Sacra: Containing Hymns and Anthems FOR <hi>TWO VOICES</hi> to the <hi>ORGAN,</hi> both <hi>Latine</hi> and <hi>Engliſh.</hi>
+                  </p>
+                  <p>COMPOSED By
+<list>
+                        <item>Mr. <hi>Richard Dering.</hi>
+                        </item>
+                        <item>Dr. <hi>Chriſtoph: Gibbons.</hi>
+                        </item>
+                        <item>Dr. <hi>Benjamin Rogers.</hi>
+                        </item>
+                        <item>Mr. <hi>Matth: Locke,</hi> and Others.</item>
+                     </list>
+                  </p>
+                  <p>THE SECOND SETT.</p>
+                  <figure>
+                     <p>Gloria Deo</p>
+                     <p>Cantate Domino Canticu<g ref="char:cmbAbbrStroke">̄</g> Nouvm Psal: <hi>95</hi>
+                     </p>
+                     <figDesc>depiction of harpist</figDesc>
+                  </figure>
+                  <p>LONDON Printed by W. Godbid for <hi>John Playford</hi> 167<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:31656:26"/>
+                  <pb facs="tcp:31656:26"/>
+                  <head>To the KING'S moſt Excellent Majeſtie, CHARLES the Second, KING of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defendor of the Faith, <hi>&amp;c.</hi>
+                  </head>
+                  <opener>
+                     <salute>Moſt Dread Sovereign,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hings Sacred are held most ſutable for a Sacred Hand; And this emboldens me to preſent Theſe <hi>Hymns</hi> and <hi>Anthems</hi> to Your <hi>MAJESTIE,</hi> the greatest part of them being the Senſe of the Royall Prophet King <hi>David;</hi> Which ſome of Your Majesties Servants, my Self and Others, have dreſs'd in this Muſicall, though modern Habit, principally to entertain Your own Royall and most Judicious Ear, that having paſs'd the higheſt Approbation may thereby appear without Exception. Your Majeſtie ſince Your moſt happy Restauration hath exten<g ref="char:EOLhyphen"/>ded Your Royall Bounty to the Advancement of this <hi>Divine Service</hi> more than any of Your Anceſtors, which must proceed from that <hi>Seraphick</hi> and judging Soul Your Majeſtie is endued with above other Kings. The King of kings grant Your <hi>MA<g ref="char:EOLhyphen"/>JESTY</hi> a Long and Proſperous Reign over all Your Subjects, which is the dayly Prayer of</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Majeſties Ever-Loyall and moſt Obedient Subject,</hi> John Playford.</signed>
+                  </closer>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:31656:27"/>
+                  <head>To all judicious <hi>Lovers</hi> and <hi>Underſtanders</hi> of <hi>MUSICK.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">H</seg>Aving formerly Publiſhed a Sett of Muſick in <hi>folio,</hi> Entituled, <hi>[CAN<g ref="char:EOLhyphen"/>TICA SACRA:]</hi> Containing <hi>Latin Hymns</hi> for Two and Three Voices to the ORGAN: all Compos'd by our Famous Countrey-man M<hi rend="sup">r</hi> 
+                     <hi>Richard Dering</hi> then Organiſt to the late Royal QUEEN: And thoſe finding ſo kind acceptance abroad, (eſpecially among the moſt judicious Profeſſors of Muſick) gave me Encouragement to ſpare nor Coſt nor Pains to obtain more of that nature, to publiſh as an Addition for the Benefit of ſuch as had the Former. Thoſe at the beginning (from the Second to the Eighth) are much of M<hi rend="sup">r</hi> 
+                     <hi>Dering</hi>'s Way, yet by ſome believed not to be his, but all that have heard them conclude them Excellently Good. The reſt that follow have their Authors Names written in their Foreheads, from whoſe Own Hands I receiv'd them: which choice HYMNS, when exactly perform'd, will more advance their due Commendations than my Pen is able.</p>
+                  <p>With theſe <hi>Latin Hymns</hi> I thought to have concluded this <hi>Second Sett;</hi> but ſome noble Friends Seeing and Hearing perform'd (at my Houſe) ſeveral Choice <hi>Engliſh Anthems</hi> of like nature for Two Voices to an ORGAN, which I had ob<g ref="char:EOLhyphen"/>tain'd from the Hands of theſe Excellent and knowing Maſters, <hi>viz:</hi> D<hi rend="sup">r</hi> 
+                     <hi>Gibbons,</hi> D<hi rend="sup">r</hi> 
+                     <hi>Rogers,</hi> M<hi rend="sup">r</hi> 
+                     <hi>Matthew Locke,</hi> and Others; They much importun'd me to Joyn them with the Reſt. To Gratifie their Deſires, and to Further any Thing that may conduce to the Advancement of this Divine Science, I willingly conſented, not doubting but all that Know me will Believe I am a devout Lover and En<g ref="char:EOLhyphen"/>courager of MUSICK: For which purpoſe, I have alſo adventured, at the End of all, to adde ſome few Compoſitions of mine Own; And if they find the leaſt approbation, they'll encourage my further attempts of more.</p>
+                  <p>As to the whole Work, I have (to the beſt of my skill) contriv'd it both for publick and private uſe, as will appear not only by the Fewneſs of Parts, but the <hi>CANTUS</hi> Parts are all Printed in the <hi>G ſol re vt</hi> Cliffe, and may properly be Sung by Men as well as Boyes or Weomen (to avoid the late Complaint againſt our uſe of ſo many various Cliffs.) And the <hi>Engliſh Anthems</hi> have often been Sung in ſeverall Cathedral Churches and Colledge Chappels where there are two eminent Voices.</p>
+                  <p>My End and Hopes are the Promotion of the Divine Uſe of MUSICK, To the Honour of HIM whoſe Gift it is to Mankind to Sing HIS Praiſes here on Earth, that they may Hereafter Sing Eternal <hi>HALLELUJAH's</hi> with the Bleſſed Saints and Angels in Everlaſting Glory,</p>
+                  <closer>
+                     <signed>Which will alſo be the Happineſs of <hi>John Playford.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div xml:lang="lat" type="songs">
+                  <pb n="1" facs="tcp:31656:27"/>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Ric. Dering.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Do╌mi╌ne Je╌ſu Chriſte O Domi╌ne Je╌ſu Chriſte A╌do╌ro te In Cruce vul╌ne╌ratum felle &amp; a╌ce╌to po╌ta╌tum Te depre╌cor te deprecor ut tua vul╌ne╌ra ſint reme╌di╌um a╌nimae meae ſint reme╌di╌um animae me╌ae Mors quae tu╌a ſit vita mea ſit vita mea ſit vita me╌a ſit vi╌ta mea. Hallelujah, Hallelujah, Halle╌lu╌jah, Halle╌lu╌jah, Hal╌le╌lu╌jah, Hallelujah, Hal<g ref="char:EOLhyphen"/>lelujah, Halle╌lujah, Halle╌lu╌jah.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="2" facs="tcp:31656:28"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">D</seg>
+                        <g ref="char:V">Ʋ</g>o Seraphin Clamabant Duo Seraphin cla<g ref="char:EOLhyphen"/>mabant Alter ad Alterum clamabant clamabant Al╌ter ad Alte╌rum San╌ctus Dominus Deus Deus Sabaoth Dominus Deus Sabaoth Sa╌baoth plena eſt plena eſt omnes ter╌ra Gloria ejus Gloria e╌jus.</p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Sacrum Convivium, O Sa╌crum Convivium in quo in quo Chriſtus ſumitur in quo Chriſtus in quo Chriſtus in quo Chriſtus ſumitur re╌colli╌tur me╌mo╌ri╌a me╌mori╌a re╌colli╌tur memo╌ri╌a Paſſionis e╌jus Paſſionis e╌jus Paſſi╌o╌nis ejus.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="3" facs="tcp:31656:28"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">T</seg>Res ſunt qui testimonium dant in Coelo dant in Coelo qui teſtimonium dant in Coelo dant in Coelo tres ſunt qui teſti<g ref="char:EOLhyphen"/>monium dant in Coe╌lo Pater &amp; Verbum &amp; Spiritus Sanctus Pater &amp; Verbum &amp; Spiritus Sanctus, &amp; hi tres unum ſunt &amp; hi tres unum ſunt San╌ctus Dominus Deus Deus Sabaoth Dominus Deus Sa╌ba╌oth Sabaoth Plena &amp; Plena eſt omnis terra Gloria ejus Glo╌ri╌a e╌jus.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="4" facs="tcp:31656:29"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">E</seg>Go ſum Reſurrectio Reſur╌recti╌o &amp; Vi╌ta Reſur<g ref="char:EOLhyphen"/>recti╌o Re╌ſurrecti╌o &amp; Vi╌ta E╌go ſum Reſur╌recti╌o &amp; Vi╌ta &amp; Vi╌ta Reſur╌recti╌o &amp; Vi╌ta &amp; Vi╌ta qui credit in me qui credit in me etiam ſi mortu╌us fuerit vivet fuerit vivet vivit Et omnes qui vivet &amp; credit in me &amp; credit in me non mo╌ri╌e╌tur in ae╌ter ╌ num non mo╌ri╌e╌tur non mo╌ri╌e╌tur in ae╌ternum in ae╌ternum.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="5" facs="tcp:31656:29"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>Ae╌tatus ſum in his quae dicta ſunt quae dicta ſunt mihi: in his quae dicta ſunt mihi: in Do╌mum Do╌mi<g ref="char:EOLhyphen"/>ni i╌bimus. In Domum Domi╌ni ibimus: ſtantes erant pedes nostri: ſtantes erant pedes nostri: in atriis tu╌is in atriis tuis Hieruſalem in atriis tuis in atriis tuis in atriis tu╌is Hie<g ref="char:EOLhyphen"/>ruſalem, Hie╌ruſa╌lem.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="6" facs="tcp:31656:30"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">H</seg>Ieruſa╌lem quae edificatur ut Ci╌vi╌tas quae edifi╌catur ut Ci╌vi╌tas Cujus partici╌patio ejus id ipſum. partici╌patio ejus participatio ejus parti╌ci╌pa╌tio e╌jus id ipſum Cujus par╌ti╌ci╌patio e╌jus id ipſum partici<g ref="char:EOLhyphen"/>patio ejus id ipſum illuc╌enim Aſcenderunt Aſcenderunt Tribus Dominum teſti╌mo╌nium Iſrael ad Confitendum nomini Do╌mi╌ni ad Confitendum no╌mini Domi╌ni nomini Do╌mi╌ni.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="7" facs="tcp:31656:30"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Rich: Dering.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Rex ave ſpes u╌ni╌ca, O Rex ave ſpes u╌ni╌ca qui ſolus fu╌i╌ſti potens, qui ſolus fu╌iſti potens portare peccata mundi, Dulcis Jeſu, dulcis clavis, Dulcis Jeſu, dulcis cla╌vis gravia ferens ponde╌ra. Sal╌va prae<g ref="char:EOLhyphen"/>ſentium catervam in tuis bodie laudibus Congregatam in tuis ho╌die laudibus in tuis ho╌die lan╌dibus Congregatam. Hal<g ref="char:EOLhyphen"/>lelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelu╌jah.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="8" facs="tcp:31656:31"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Henry Lawes.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">Q</seg>Vis ſicut Dominus Deus no╌ſter, Qui in Altis qui in altis habitat Et hu╌milia reſpicit in Coelo &amp; in Terra. Quis ſicut Dominus Deus no╌ſter? Quis ſimilis tui in fortibus Domine ter╌ri╌bi╌lis &amp; faciens &amp; faciens mira╌bilia, Benedictus qui ſedes ſuper Cherubin &amp; intueris Abyſſos Laudabi╌lis &amp; glo╌ri╌o╌ſus &amp; ſuper Exaltatus in ſecula in ſecula in ſecula in ſe╌cu╌la ſecu╌lorum.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="9" facs="tcp:31656:31"/>
+                     <opener>A <hi>2</hi> Voc.
+<byline>
+                           <hi>Mr.</hi> George Jeffreyes.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">E</seg>Rit Gloria Domini in ſeculum, erit Gloria Domi╌ni in ſeculum laetabitur Dominus, laetabi╌tur Domi<g ref="char:EOLhyphen"/>nus in o╌pe ri╌bus ſu╌is in o╌pe╌ri╌bus ſu╌is, intue╌tur ter<g ref="char:EOLhyphen"/>ram &amp; contremiſcit &amp; contremi╌ſc╌it in╌tu╌e╌tur terram ter╌ram &amp; contremiſcit tangit montes &amp; fumant, &amp; fu╌mant tangit montes et fumant tangit montes tangit montes et fumant, Cantabo Domino in vita mea in vita me╌ ╌a Cantabo Do╌mi╌no, in vita me╌a, in vita me╌a.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="10" facs="tcp:31656:32"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Christopher Gibbons.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">C</seg>Ele╌brate Dominum proclama╌te nomen e╌jus, Celebrate Dominum proclamate no╌men ejus notas fa╌ci╌te actiones e╌jus notas fa╌ci╌te acti╌o╌nes e╌jus. Ca╌ni╌te Je╌hovae. Et Lau<g ref="char:EOLhyphen"/>da╌te e╌um confabu╌la╌mini de omnibus miraculis ejus. Quaerite Jehovam, &amp; robur ejus, Quaerite faciem ejus in ae<g ref="char:EOLhyphen"/>ternum Ille Jeho╌vae De╌us noſter, In tota ter╌ra ſunt ejus Ju╌dici╌a, Decor &amp; Majeſtas coram e╌o, Ro<g ref="char:EOLhyphen"/>bur &amp; gaudium in lo╌co il╌li╌us, Magnus Jehovae, Magnus Je<g ref="char:EOLhyphen"/>hovae Et eſt landandus reverendus ſuper omnes De╌os,
+<pb n="11" facs="tcp:31656:32"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Et eſt laudandus reverendus ſuper omnes Deos ſuper om╌nes Deos. Halle╌lujah, Hallelu╌jah, Hallelujah, Halle╌lujah, Hallelu jah, Hallelujah, Halle╌lujah, Halle╌lujah, Hallelujah, Hallelu╌jah, Halle<g ref="char:EOLhyphen"/>lu╌jah, Halle╌lujah, Hallelujah, Hallelujah, Halle╌lu╌jah.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="12" facs="tcp:31656:33"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">E</seg>Xaltabo te Domine, Exaltabo te Domine, te Domi<g ref="char:EOLhyphen"/>ne, Quoniam ſuſcepiſti me, quoniam ſuſcepiſti me ſuſcepiſti me: Nec delectaſti inimicos meos inimicos meos ſuper me ſu╌per me. Dominus Deus meus clamavi, clamavi ad te, clamavi, clamavi, ad te, clamavi, ad te &amp; ſanaſti me. Pſallite Domino, Pſallite Domino ſancti ejus ſancti ejus Et confi╌temini &amp; confi<g ref="char:EOLhyphen"/>temini memori╌ae ſanctitatis e╌jus. Hallelujah, hallelujah, Hallelujah, hallelujah, hallelujah, hallelujah, hallelujah, hallelujah, Hallelujah, hallelujah, hallelujah, hallelujah, Hallelujah,</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="13" facs="tcp:31656:33"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">A</seg>
+                        <g ref="char:V">Ʋ</g>divit Dominus, audivit Dominus &amp; miſertus eſt me╌i Dominus factus eſt Dominus factus eſt adjutor me╌us. Convertiſti planctum meum in gaudium in gaudium mi╌hi concidiſti ſaccum meum &amp; circundediſti lae╌titi╌a. <g ref="char:V">Ʋ</g>t cantet tibi gloria me<g ref="char:EOLhyphen"/>a &amp; non compungar Domine Deus meus Domine <g ref="char:proportion2">∝</g> Domi<g ref="char:EOLhyphen"/>ne Deus meus Domine Deus meus in ae╌ter╌num confitebor confitebor confi╌tebor ti╌bi. Hallelujah, hallelujah, hallelujah, hallelujah, Hallelujah, hallelujah, hallelujah, hallelujah, hallelujah, hallelujah, Hallelujah hallelujah Hallelujah</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="14" facs="tcp:31656:34"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">D</seg>Eus miſereatur noſtri &amp; benedicat no╌bis illuminet vultum ſuum ſuper nos &amp; miſereatur noſtri <g ref="char:V">Ʋ</g>t cognoſcamus in terra viam tuam in omni╌bus genti<g ref="char:EOLhyphen"/>bus ſa╌lu╌ta╌re tuum in omnibus gentibus ſa lu╌ta╌re tuum confiteantur tibi confiteantur tibi populi Deus confiteantur tibi populi Deus confiteantur tibi populi omnes. Laetentur &amp; exultent gentes quoniam Judicas populos in aequitate &amp; Gentes in terra di╌ri╌gis &amp; gen╌tes in terra dirigis.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="15" facs="tcp:31656:34"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">I</seg>
+                        <g ref="char:V">Ʋ</g>bilate Deo jubila╌te Deo omnis terra Pſalmum dicite Pſalmum dicite nomini e╌jus date gloria lau╌di e╌jus. Omnes terra adoret te &amp; Pſallat ti╌bi: Pſalmum dicat nomini tuo Pſalmum dicat nomini nomini tu╌o Pſalmum dicat no╌mi╌ni tuo nomini tu╌o. Benedici╌te gentes, bene╌dici╌te gentes Deum noſtrum, et auditam faci╌te au<g ref="char:EOLhyphen"/>ditam facite vocem et au<g ref="char:EOLhyphen"/>ditam facite vocem laudis ejus laudis e╌jus. Halelujah, hale<g ref="char:EOLhyphen"/>lujah, ha╌le╌lujah, ha╌le╌lujah, haleluja, haleluja, haleluja, halelujah, Hale╌lu╌jah, halelujah, hale╌lujah, halelujah, halelujah, hale╌lu╌jah.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="16" facs="tcp:31656:35"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">A</seg>G╌no╌ſce, agno╌ſce O Christiane digni<g ref="char:EOLhyphen"/>ta╌tem O Christiane digni╌ta╌ tem tuam, &amp; divinae conſors factus naturae noli in veterem vilitatem de╌gene<g ref="char:EOLhyphen"/>ri converſati╌o╌ne redire memento Cujus capitis et ejus corporis ſis membrum reminiſcere re╌mi╌niſcere quod erutus de potestate tenebrarum, reminiſcere quod erutus de poteſtate tenebrarum, tene <g ref="char:proportion2">∝</g> Tranſlatus es tranſlatus es in Dei lumen et regnum Hallelujah, hallelujah, hal╌le╌lu╌ja hallelujah, halle╌lu╌ <gap reason="illegible" resp="#PDCC" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="17" facs="tcp:31656:35"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">R</seg>Ecordare recordare Domine creaturae tu╌ ╌ae quam tuo ſanguine redi╌mi╌ſti poenitet me pec╌caſſe poenitet me╌peccaſſe cupio emendare emendare quod fe╌ci Aufer ergo à me clementiſſi╌me Pater omnes in i qui<g ref="char:EOLhyphen"/>tates &amp; peccata mea peccata mea pecca╌ta peccata mea, Aufer ergo à me clementiſſime Pater omnes in╌iquitates &amp; pec<g ref="char:EOLhyphen"/>cata mea peccata mea peccata peccata mea.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="18" facs="tcp:31656:36"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg>Mnes gentes omnes gentes plaudite plaudite plaudite manibus omnes gentes omnes gentes plau╌dite plau╌dite plaudite manibus. Plau╌dite plau╌dite plaudite manibus <stage>Soft</stage> plaudite ma╌ni╌bus Jubilate Deo in voce in voce exul╌tati╌o╌nes, ju╌bi╌late Deo in vo╌ce exultationes. <stage>Solus.</stage> Quonia<g ref="char:cmbAbbrStroke">̄</g> Dominus ex<g ref="char:EOLhyphen"/>cel╌ſus, ter╌ri ╌ bi╌lis. Rex magnus ſuper om╌ ╌nem ter╌ram. <stage>Cho:</stage> Omnes gentes omnes gentes plaudite plaudite plaudite manibus omnes gentes omnes gentes plau╌dite plau╌dite
+<pb n="19" facs="tcp:31656:36"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> plaudite ma╌ni╌bus, Plau╌dite plau╌dite plaudite ma╌ni╌bus <stage>Soft.</stage> plaudite ma╌ni╌bus.</p>
+                     <div n="2" type="part">
+                        <head>PARS SECUNDA.</head>
+                        <p>
+                           <gap reason="music">
+                              <desc>〈♫〉</desc>
+                           </gap> 
+                           <stage>Solus</stage> AScendit Deus in jubilo, aſcendit Deus in jubilo in ju╌bilo Et Dominus in voce tubae in voce <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u╌ ╌bae. Pſallite De╌o noſtro Pſal╌ ╌lite Regi noſtro pſal╌lite pſal╌li╌te Quoniam Rex omnis terrae Deus quoniam Rex omnis terrae Deus pſallite pſallite ſapi╌en╌ter pſallite Pſallite ſapien ╌ter. Haleluja, halleluja, Haleluja, Hale╌ <stage>Soft.</stage> ╌lujah, Halelujah, Ha╌lelujah, Halelu╌jah, Halelujah.</p>
+                     </div>
+                  </div>
+                  <div type="hymn">
+                     <pb n="20" facs="tcp:31656:37"/>
+                     <opener>
+                        <hi>A</hi> 2 <hi>Voc.</hi> Trebles or Tenors.
+<byline>Mr. <hi>Matthew Locke.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Domine Jeſu Chriſte, adoro te adoro te in Cruce Vulne╌ra╌tum felle &amp; aceto potatum a ce╌to po╌ta<g ref="char:EOLhyphen"/>tum Te deprecor ut tu╌a vulnera ſint re╌medi╌um animae meae morſque morſque tua ſit vita mea morſque morſque tua ſit vita me╌a morſque morſque tu╌a ſit vita me╌a.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="21" facs="tcp:31656:37"/>
+                     <opener>
+                        <hi>A</hi> 2 <hi>Voc.</hi> Trebles or Tenors.
+<byline>Mr. <hi>Matthew Locke.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">C</seg>Antate Domino canticum novum, Cantate Domino cantate Domino o╌mnes ter╌ra, Cantate Domino can╌ti╌cum novum Can╌tate Domino omnis ter╌ra, cantate cantate Domino om╌nis ter╌ra Cantate Domino om╌nis ter╌ra. Cantate cantate cantate Domino, &amp; Benedicite nomen e╌jus: Cantate Domino, &amp; Be<g ref="char:EOLhyphen"/>nedicite nomen ejus no╌men ejus Annunciate à die in diem ſalutare ſalutare e╌jus, Annunci╌a╌te à di╌e in diem ſaluta╌re ſalutare e╌jus. Hallelu╌jah, ╌ Halle╌lujah, Halle<g ref="char:EOLhyphen"/>lu╌jah, halelujah, ha╌le╌lu╌jah, Hale╌lu╌jah, Hale╌lu╌jah, Halle╌lu╌jah, Hallelu╌jah.</p>
+                  </div>
+               </div>
+               <div xml:lang="eng" type="songs">
+                  <pb n="22" facs="tcp:31656:38"/>
+                  <head>¶ Here beginneth <hi>Engliſh Anthems</hi> and <hi>Hymnes</hi> for Two Voices to the ORGAN.</head>
+                  <div type="hymn">
+                     <opener>An Anthem for <hi>2</hi> Voc. <hi>Trebles or Tenors.</hi>
+                        <byline>
+                           <hi>Dr.</hi> Chr. Gibbons.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">S</seg>Ing unto the Lord, Sing unto the Lord O ye Saints of His, And give thanks at the remembrance of His Holineſs, &amp; give thanks at the re<g ref="char:EOLhyphen"/>membrance of His Holineſs: For his Anger endures but a Moment, but a Moment, In His favour is life, in His favour is life. Weeping may endure for a Night, But Joy, but Joy comes in the Morning, but Joy comes in the Morning. Lord, Lord, by Thy favour Thou haſt made my Mountain to ſtand ſtrong, Thou didſt hide Thy Face, Thou didſt hide Thy face and I was troubled, I was troubled. I cry'd unto Thee O Lord, unto Thee O Lord, And unto thee Lord And unto Thee Lord I made my ſupplica╌tion. What profit is there
+<pb n="23" facs="tcp:31656:38"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> in my blood, What profit is there in my blood, when I goe down in╌ to the Pit? Shall the Duſt, ſhall the Duſt praiſe Thee, or ſhall it declare Thy truth? Hear O Lord, And have Mercy upon me, Lord be Thou my Helper, be Thou my Hel╌per.</p>
+                  </div>
+                  <div type="hymn">
+                     <opener>An Anthem for <hi>2</hi> Voc. <hi>Trebles or Tenors.</hi>
+                        <byline>
+                           <hi>Dr.</hi> Chr. Gibbons.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">T</seg>Each me O Lord the Way of Thy Statutes, and I ſhall keep it, ſhall keep it un╌to the end. Give me Underſtanding, And I ſhall keep Thy Law: yea, I ſhall keep it; yea, I ſhall keep it, I ſhall keep it with my whole Heart. Make me to goe in the Paths of thy Commande╌ments, Incline my Heart unto Thy Teſtimonies,
+<pb n="24" facs="tcp:31656:39"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> And not to Covetouſ╌neſs. O Turn away mine eyes, Leſt they behold Vanity, Va╌ni╌ty. And quicken Thou me in Thy way. O ſtabliſh Thy Word in Thy Servant, That I may fear Thee, I may fear Thee. Take away the Rebuke That I am afraid of, a╌fraid of, For thy Judgments are good. Behold, Behold my delight, is in Thy Commandements. O quicken me, In Thy Righteouſneſs.</p>
+                  </div>
+                  <div type="hymn">
+                     <opener>An Anthem for <hi>2</hi> Voc. <hi>Trebles or Tenors.</hi>
+                        <byline>
+                           <hi>Dr.</hi> Chr. Gibbons.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Verſe.</stage> 
+                        <seg rend="decorInit">H</seg>Ow long, wilt thou forget me O Lord, for ever? How long wilt Thou hide Thy face from me? How long, how long ſhall I ask Councel <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> in my Soul and be thus vexed in my Heart? How long
+<pb n="25" facs="tcp:31656:39"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ſhall mine Enemies Triumph over me, Triumph over me? Conſider and hear me ô Lord my God. Lighten mine eyes, that I ſleep not in Death. <stage>
+                           <hi>Chorus</hi> 3 <hi>Voc.</hi>
+                        </stage> 
+                        <hi>Conſider and hear me ô Lord my God, Conſider and hear me ô Lord my God. Lighten mine eyes, lighten mine eyes that I ſleep not in Death, in death,</hi> 
+                        <stage>Verſe.</stage> Leſt mine Enemies ſay, We have prevailed a╌gainſt him: For if I be caſt down, they that Trouble trouble me, will Rejoice at it. But my truſt is in Thy Mercy, And my heart is joyfull, and my heart is joyfull in Thy Salva╌tion. <stage>Cho: 3 <hi>Voc.</hi>
+                        </stage>
+                        <hi>I will ſing of the Lord, I will ſing of the Lord, Becauſe He hath dealt ſo Lovingly with me: Yea, I will Praiſe the Name of the Lord moſt Higheſt; Yea, I will Praiſe the Name</hi> of the Lord moſt Higheſt moſt higheſt</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="26" facs="tcp:31656:40"/>
+                     <opener>
+                        <hi>A Hymn:</hi> 2 Trebles or Tenors.
+<byline>D. <hi>Benjamin Rogers.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>Ift up your heads great Gates and ſing, Now Glory comes, now Glory comes, and Glories King. Now by your High all golden way, The fairer Heaven comes home to day. Hark now the Gates are ope and Hear The Tune of each triumphant Sphear, Where every Angel as he ſings Keeps time keeps time with his applau╌ding, applauding wings, And makes Heavens Loftieſt Roof rebound, rebound. The treaſures of this noble Sound, Which our poor Tongues ſhall as they may Reſtore to them again, and ſay, Reſtore to them again, and ſay, reſtore to them to them again, and ſay, <hi>Hallelujah, Halle<g ref="char:EOLhyphen"/>lujah, Hallelu╌jah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Hallelu╌jah, Halle╌</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="27" facs="tcp:31656:40"/>
+                     <opener>
+                        <hi>A</hi> 2 <hi>Voc.</hi> Trebles or Tenors.
+<byline>Dr. <hi>Benjamin Rogers.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ET all with ſweet accord Clap hands, Clap hands, their Voices raiſe, In honor of the Lord, Who from above, who from above Lightning flings. The King of kings of all that move. The Nations of our Foes be<g ref="char:EOLhyphen"/>neath our feet He hath thrown: A fair poſſeſſion choſe for us that were his own, for us that were that were his own. In triumph God aſcends with Trumpets ſhrill. O praiſe Him with the beſt of skill. For God is King of all the Earth. Sing praiſes, ſing praiſes with Sa╌cred Mirth, ſing praiſes, ſing praiſes, ſing praiſes, with Sacred Mirth. <hi>Hallelujah, Halle╌lujah, Halle╌lu╌jah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Halle╌lujah, Hallelujah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Halle╌lu╌jah</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="28" facs="tcp:31656:41"/>
+                     <opener>A <hi>2</hi> Voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">T</seg>Ell Mankind JEHOVAH Reigns, He ſhall bind the World in Chains, So as it ſhall never ſlide, And with Sacred Juſtice guide. Let the ſmiling Heavens rejoice, Joyfull Earth exalt her Voice. Let the Dancing Billows Rore, Eccho's anſwer from the Shore. Fields their Flowry Mantles ſhake; All ſhall in their Joy partake. Whilſt the Wood╌Muſicians Sing To the ever Youthfull Spring. Fill His Courts with Sacred Mirth; He, He comes to Judge the Earth. Juſtly He the World ſhall ſway, And His Truth to Men diſplay. <hi>Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Halle╌lu╌jah, Hallelujah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> 
+                           <g ref="char:proportion2">∝</g> 
+                           <stage>Drag.</stage> Halle╌</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="29" facs="tcp:31656:41"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Mich: Wiſe.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">I</seg> Charge you, ô Daugh<g ref="char:EOLhyphen"/>ters of <hi>Jeruſalem,</hi> &amp;c. <stage>Verſe alone.</stage> What is Thy Beloved more than an<g ref="char:EOLhyphen"/>other Beloved? O Thou Faireſt, Thou Faireſt among Women, What is Thy Be╌lo╌ved, that Thou doſt ſo charge us? <stage>Chorus.</stage> 
+                        <hi>Yea, He is altogether Lovely, altogether Lovely, <stage>Soft.</stage> Alto╌gether Lovely: This is my Be╌lo╌ved, this is my Beloved, This is my Beloved, and this is my Friend, ô Daughters, ô Daughters of</hi> Je╌ru╌ſa╌lem.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="30" facs="tcp:31656:42"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> John Jackson.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Chorus.</stage> 
+                        <seg rend="decorInit">S</seg>ET up Thy ſelf, ô God, a╌bove the Heavens, Set up Thy ſelf, O God, above, above the Heavens, <stage>Drag.</stage> And Thy Glory above all the Earth, <stage>Soft.</stage> And Thy Glory above all the Earth. <stage>Verſe.</stage> 
+                        <hi>My Heart is fixed, O God, my Heart is fixed, My Heart is fixed, O God, my Heart is fixed: I will ſing and give praiſe, and give praiſe. <stage>Alone.</stage> Awake up my Glory, Awake Lute and Harp, I my ſelf will awake right Early.</hi> 
+                        <stage>Chorus.</stage> For the greatneſs of Thy Mercy reacheth unto the Heavens, And Thy Truth un╌to the Clouds. Set up Thy ſelf ô God a╌bove the Heavens, Set up Thy ſelf ô God a<g ref="char:EOLhyphen"/>bove,
+<pb n="31" facs="tcp:31656:42"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> above the Heavens, <stage>Drag.</stage> And Thy Glory a╌bove all the Earth, <stage>Soft.</stage> And Thy Glory above all the Earth. <hi>Hallelujah, <g ref="char:proportion2">∝</g> Halle╌lu╌jah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Halle╌lujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, Hallelujah, <g ref="char:proportion2">∝</g> Hallelu╌jah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> 
+                           <stage>Soft.</stage> Hallelujah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="32" facs="tcp:31656:43"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> John Jackson.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ET God ariſe, and let His Enemies be ſcattered: Let them alſo that hate Him flee before Him, Let them alſo that hate Him flee before Him. Like as the Smoke vaniſheth, ſo ſhalt thou drive them away, ſo ſhalt thou drive them away, ſo ſhalt thou drive them away. And like as Wax melteth at the fire, ſo ſhall the ungodly periſh at the preſence of God: But let the Righteous be glad and rejoice, be glad and rejoice be╌fore Him. Let them alſo be merry, be merry and joyfull, Let them alſo be merry and joyfull. <hi>Hallelujah, <g ref="char:proportion2">∝</g> Hal╌le╌lu╌jah, <g ref="char:proportion2">∝</g> Hallelu╌jah, <g ref="char:proportion2">∝</g> Halle╌lujah, <g ref="char:proportion2">∝</g> Halle╌lujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, Hallelujah, Hallelu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="33" facs="tcp:31656:43"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Cantus alone.</stage> 
+                        <seg rend="decorInit">L</seg>ORD, Let me know my End, <hi>&amp;c.</hi> 
+                        <stage>Together.</stage> Behold, Thou haſt made my dayes as it were a ſpan long, as it were a ſpan long, And mine Age is even as nothing in reſpect of Thee, And mine Age is even as nothing in reſpect of Thee, And verily every man living, every man living is altogether, altogether vanity, altogether, al╌to╌gether vanity. For man walks in a vain ſhadow, in a vain ſhadow, And diſquiets himſelf, diſquiets him<g ref="char:EOLhyphen"/>ſelf in vain: He heaps up riches, and cannot tell who ſhall gather them, and cannot tell who ſhall gather them, <stage>Soft.</stage> and cannot tell who ſhall gather them.
+<pb n="34" facs="tcp:31656:44"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> And now Lord, what is my hope, what is my hope? Truly my hope is even in Thee, truly my hope is even in Thee, my hope is even in Thee, truly, truly my hope is even in Thee, my hope is even in Thee, in Thee, my hope is E╌ven in Thee. For I am a Stranger with Thee, a Stranger with Thee, And a Sojourner as all my Fathers were, And a Sojourner as all my Fathers were, <stage>Soft.</stage> As all my Fathers were. O ſpare me a little, That I may recover my ſtrength, O ſpare me a little, That I may recover my ſtrength, re<g ref="char:EOLhyphen"/>cover my ſtrength, before before I goe hence, And be no more ſeen, and be no more ſeen. And be no more ſeen, be no more ſeen, <stage>Soft.</stage> no more ſeen.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="35" facs="tcp:31656:44"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Iſaac Blackwell.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">B</seg>Ehold, Behold, how good and joyfull a thing it is, Brethren, Brethren, to dwell together, together, To dwell together, to<g ref="char:EOLhyphen"/>gether, to dwell together in unity. 'Tis like the pretious Ointment up<g ref="char:EOLhyphen"/>on the Head that ran down unto the Beard, even unto <hi>Aaron</hi>'s Beard, and went down unto the Skirts of his Cloa╌thing. Like as the Dew of <hi>Hermon</hi> which fell upon the Hill of <hi>Sion;</hi> For there the Lord promis'd His Bleſſing, For there the Lord promis'd His Bleſſing, His Bleſſing, and Life fore╌vermore. <hi>Hal╌le╌lujah, <g ref="char:proportion2">∝</g> Halle╌lujah, <g ref="char:proportion2">∝</g> Halle╌lujah. Halle╌lujah, <g ref="char:proportion2">∝</g> Halle╌lujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Halle╌lu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="36" facs="tcp:31656:45"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Iſaac Blackwell.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ET My Complaint come before Thee, O Lord, Let my Com<g ref="char:EOLhyphen"/>plaint come before Thee, O Lord. Give me underſtanding, give me underſtanding According to Thy Word, ac╌cor╌ding to Thy Word. My Lips ſhall ſpeak of Thy Praiſe when Thou haſt taught me Thy Statutes, when Thou haſt taught me Thy Statutes: Yea, my tongue ſhall Sing of Thy word, Yea, my Tongue ſhall Sing of Thy Word, For all Thy Commandments are Righteous, for all Thy Commandments are Righteous. <hi>Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, Hal╌le╌lujah, <g ref="char:proportion2">∝</g> Halle╌lujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelujah, Hal╌le╌lu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="37" facs="tcp:31656:45"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Iſaac Blackwell.</byline>
+                     </opener>
+                     <head>A Hymn for <hi>Good-Friday.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">S</seg>EE Sinfull Soul, thy Saviours ſuffrings ſee, See His bleſ<g ref="char:EOLhyphen"/>ſed Hands &amp; Feet fixt to a Tree. Obſerve, obſerve what Riv'lets of Blood ſtream forth His pain╌full pierced Side, His pain╌full pierced Side, Each drop, each Drop more worth than Tongue of Men and Angels can Expreſs: Haſt to Him curſed Caitiff and confeſs, All thy Misdeeds, and ſigh╌ing ſay, 'Twas I That caus'd Thee thus My Lord &amp; Chriſt to Dye. O let Thy Death ſecure my Soul from fears, And I will waſh Thy Wounds in briniſh Tears. Grant me ſweet JESU from Thy pretious ſtore, One Cleanſing Drop, with Grace, with Grace to Sin no more.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="38" facs="tcp:31656:46"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> How pleaſant &amp; how fair, Lord of Hoſt, Thy dwellings are: One day in Thy Courts alone, Far exceeds a mil╌li╌on. I'de rather have the loweſt place In Thy Houſe, and ſee Thy Face, Than with wicked men poſ<g ref="char:EOLhyphen"/>ſeſs, All that they call Happi╌neſs. <stage>Chorus.</stage> O Thou Shield of our defence! O thou Sun, whoſe influence ſweetly glides in╌to our hearts! Thou, who all good, who all good to Thine Impart'ſt: Happy who on Thee depend, Thine their way, Thine their way, and Thou their End, Happy, happy, who on Thee depend, And Thou their end, and Thou their end, Thine, Thine their way, and Thou their end.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="39" facs="tcp:31656:46"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg>UT of the deep have I called to Thee ô Lord, Lord hear, Lord hear, Lord hear my voice. O let Thine Ears conſider well the voice of my Complaint. If Thou Lord ſhouldſt be extream, extream to mark what is done amiſs, O Lord, ô Lord, who may a bide it. But there is mercy with Thee, therefore ſhalt Thou be feared, therefore ſhalt Thou be fea╌red, <stage>Soft.</stage> be feared. I look for the Lord, My Soul doth wait for Him: In His Word is my truſt, In His Word is my truſt. My Soul fle╌eth unto the Lord before the Morning watch, I ſay before <g ref="char:proportion2">∝</g> O Iſra╌el, ô Iſrael truſt in the Lord, truſt <g ref="char:proportion2">∝</g> in the Lord: For w<hi rend="sup">th</hi> the Lord there is mercy, there is mercy. And with Him is plenteous is plenteous is plenteous Redemption.
+<pb n="40" facs="tcp:31656:47"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <hi>Hal╌le╌lujah, <g ref="char:proportion2">∝</g> Hal╌le╌lujah, <g ref="char:proportion2">∝</g> Hallelujah, Halle<g ref="char:EOLhyphen"/>lujah, Hal╌lelujah, <g ref="char:proportion2">∝</g> Hallelujah, <g ref="char:proportion2">∝</g> Hallelu╌jah.</hi>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Be joyfull in the Lord all ye Lands. Serve the Lord with gladneſs, And come before His preſence with a Song. Be ye ſure that the Lord He is God, it is He that hath made us &amp; not we our ſelves: We are His people, and the Sheep, and the Sheep, and the Sheep of His Paſture. O go your ways in╌to His Gates with Thanks<g ref="char:EOLhyphen"/>giving, And in╌to His Courts with Praiſe, And in╌to His <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ith <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Courts with Praiſe Be Thankfull Thankfull
+<pb n="41" facs="tcp:31656:47"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> unto Him, And ſpeak good of His Name, good of His Name, and ſpeak good of His name. For the Lord is gra╌cious, is gracious, And His Mercy is Everlaſting, is everlaſting, everlaſting, And His Truth endureth from Generation to Generation, from Generati╌on to Generati╌on. <stage>Soft.</stage> Glory be to the Father, And to the Son, And to the holy Ghoſt, the Holy Ghoſt: As it was in the beginning, is now, and ever ſhall be, and ever ſball be, world without end, without end, Amen, A╌men.</p>
+                  </div>
+                  <div type="hymn">
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">I</seg> AM well╌plea╌ſed that the LORD hath heard the Voice, the Voice of my Prayer:
+<pb n="42" facs="tcp:31656:48"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <hi>That He hath enclin'd His ear unto me, Therefore will I call upon Him, therefore will I call upon Him, will I call upon Him as long as I live, as long as I live. <stage>Verſe alone.</stage> What reward ſhall I give unto the Lord for all the benefits that He hath done to me?</hi> I will offer to Thee, I will offer to Thee the Sacrifice of Thanksgiving, And will call upon the Name of the Lord, And will call upon the Name of the Lord. I will thank Thee, for Thou haſt heard me, And haſt de╌liver'd me, and haſt deliver'd me when I was in Trouble, when I was in Trouble. O give Thanks, O give Thanks unto the Lord, unto the Lord, For He is gracious, For He is gracious, And His mercy endureth for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> A╌men.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="43" facs="tcp:31656:48"/>
+                     <opener>A <hi>2</hi> voc. Cant &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <head>An Anthem of <hi>Thanks-giving.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Verſe.</stage> 
+                        <seg rend="decorInit">O</seg> Lord, O Lord, Thou haſt brought up my Soul from the Grave, Thou haſt kept me a╌live that I ſhould not goe down to the Pit, that I ſhould not goe down to the Pit. Give Thanks, ô Iſ╌ra╌el, unto God the Lord, unto God the Lord In the Congre╌gati╌on, In the Congre╌gati╌on from the ground, fro<g ref="char:cmbAbbrStroke">̄</g> 
+                        <g ref="char:proportion2">∝</g> fro<g ref="char:cmbAbbrStroke">̄</g> 
+                        <g ref="char:proportion2">∝</g> the ground of the Heart. <stage>
+                           <hi>Firſt Chorus, a</hi> 3 <hi>voc.</hi>
+                        </stage> 
+                        <hi>O come ſing unto the Lord ye Saints of His, And give thanks at the remembrance of his Holineſs, For the Lord is my ſtrength and my Song, And He is become my Salvation. O that men would therefore praiſe the Lord for His Goodneſs, And declare the Wonders that He doth for the Chil<g ref="char:EOLhyphen"/>dren of Men, for the Children of Men.</hi> Turn and refreſh me. <stage>Verſe.</stage> Yea and brought me <gap reason="illegible" resp="#PDCC" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                        <pb n="44" facs="tcp:31656:49"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Therefore lets Sing unto the Lord, let us Sing unto the Lord. And let us heartily rejoice in the ſtrength, in the ſtrength, in the ſtrength, the ſtrength of our ſal╌va╌ti╌on. <hi>Second Chorus:</hi> 3 <hi>voc. Sing aloud unto God our ſtrength: Make a joyfull noiſe unto the God of Iſra╌el. O let your Songs be of Him, and Praiſe Him: And let your talking be of all His great &amp; wondrous Works: For who is God ſave the Lord: Or who is a Rock ſave our God. Bleſſed be the Lord God of Iſrael, from Everlaſting to Everlaſting, And let all the People ſay</hi> A╌men. Glory be to the Father, and to the Son, and to the Holy Ghoſt: As it was in the beginning, and is now, and ever ſhall be, and ever ſhall be world without end, A╌men, A╌men.</p>
+                     <p>There is lately Publiſhed, in a Book in <hi>Folio, <hi>The Pſalms in Four Parts,</hi>
+                        </hi> on the Common Tunes uſed in Pariſh-Churches, with the <hi>Baſs</hi> under the ſeveral Tunes proper to Sing to the <hi>Organ</hi> &amp; <hi>Baſs-Viol: To which is added,</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:31656:49"/>
+                  <p>
+                     <hi>BASSO CONTINVO.</hi>
+                  </p>
+                  <p>Cantica Sacra: Containing Hymns and Anthems FOR <hi>TWO VOICES</hi> to the <hi>ORGAN,</hi> both <hi>Latine</hi> and <hi>Engliſh.</hi>
+                  </p>
+                  <p>COMPOSED By
+<list>
+                        <item>Mr. <hi>Richard Dering.</hi>
+                        </item>
+                        <item>Dr. <hi>Chriſtoph: Gibbons.</hi>
+                        </item>
+                        <item>Dr. <hi>Benjamin Rogers.</hi>
+                        </item>
+                        <item>Mr. <hi>Matth: Locke,</hi> and Others.</item>
+                     </list>
+                  </p>
+                  <p>THE SECOND SETT.</p>
+                  <figure>
+                     <p>Gloria Deo</p>
+                     <p>Cantate Domino Canticu<g ref="char:cmbAbbrStroke">̄</g> Nouvm Psal: <hi>95</hi>
+                     </p>
+                     <figDesc>depiction of harpist</figDesc>
+                  </figure>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:31656:50"/>
+                  <pb facs="tcp:31656:50"/>
+                  <head>To the KING'S moſt Excellent Majeſtie, CHARLES the Second, KING of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defendor of the Faith, <hi>&amp;c.</hi>
+                  </head>
+                  <opener>
+                     <salute>Moſt Dread Sovereign,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hings Sacred are held most ſutable for a Sacred Hand; And this emboldens me to preſent Theſe <hi>Hymns</hi> and <hi>Anthems</hi> to Your <hi>MAJESTIE,</hi> the greatest part of them being the Senſe of the Royall Prophet King <hi>David;</hi> Which ſome of Your Majesties Servants, my Self and Others, have dreſs'd in this Muſicall, though modern Habit, principally to entertain Your own Royall and most Judicious Ear, that having paſs'd the higheſt Approbation may thereby appear without Exception. Your Majeſtie ſince Your moſt happy Restauration hath exten<g ref="char:EOLhyphen"/>ded Your Royall Bounty to the Advancement of this <hi>Divine Service</hi> more than any of Your Anceſtors, which must proceed from that <hi>Seraphick</hi> and judging Soul Your Majeſtie is endued with above other Kings. The King of kings grant Your <hi>MA<g ref="char:EOLhyphen"/>JESTY</hi> a Long and Proſperous Reign over all Your Subjects, which is the dayly Prayer of</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Majeſties Ever-Loyall and moſt Obedient Subject,</hi> John Playford.</signed>
+                  </closer>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:31656:51"/>
+                  <head>To all judicious <hi>Lovers</hi> and <hi>Underſtanders</hi> of <hi>MUSICK.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">H</seg>Aving formerly Publiſhed a Sett of Muſick in <hi>folio,</hi> Entituled, <hi>[CAN<g ref="char:EOLhyphen"/>TICA SACRA:]</hi> Containing <hi>Latin Hymns</hi> for Two and Three Voices to the ORGAN: all Compos'd by our Famous Countrey-man M<hi rend="sup">r</hi> 
+                     <hi>Richard Dering</hi> then Organiſt to the late Royal QUEEN: And thoſe finding ſo kind acceptance abroad, (eſpecially among the moſt judicious Profeſſors of Muſick) gave me Encouragement to ſpare nor Coſt nor Pains to obtain more of that nature, to publiſh as an Addition for the Benefit of ſuch as had the Former. Thoſe at the beginning (from the Second to the Eighth) are much of M<hi rend="sup">r</hi> 
+                     <hi>Dering</hi>'s Way, yet by ſome believed not to be his, but all that have heard them conclude them Excellently Good. The reſt that follow have their Authors Names written in their Foreheads, from whoſe Own Hands I receiv'd them: which choice HYMNS, when exactly perform'd, will more advance their due Commendations than my Pen is able.</p>
+                  <p>With theſe <hi>Latin Hymns</hi> I thought to have concluded this <hi>Second Sett;</hi> but ſome noble Friends Seeing and Hearing perform'd (at my Houſe) ſeveral Choice <hi>Engliſh Anthems</hi> of like nature for Two Voices to an ORGAN, which I had ob<g ref="char:EOLhyphen"/>tain'd from the Hands of theſe Excellent and knowing Maſters, <hi>viz:</hi> D<hi rend="sup">r</hi> 
+                     <hi>Gibbons,</hi> D<hi rend="sup">r</hi> 
+                     <hi>Rogers,</hi> M<hi rend="sup">r</hi> 
+                     <hi>Matthew Locke,</hi> and Others; They much importun'd me to Joyn them with the Reſt. To Gratifie their Deſires, and to Further any Thing that may conduce to the Advancement of this Divine Science, I willingly conſented, not doubting but all that Know me will Believe I am a devout Lover and En<g ref="char:EOLhyphen"/>courager of MUSICK: For which purpoſe, I have alſo adventured, at the End of all, to adde ſome few Compoſitions of mine Own; And if they find the leaſt approbation, they'll encourage my further attempts of more.</p>
+                  <p>As to the whole Work, I have (to the beſt of my skill) contriv'd it both for publick and private uſe, as will appear not only by the Fewneſs of Parts, but the <hi>CANTUS</hi> Parts are all Printed in the <hi>G ſol re vt</hi> Cliffe, and may properly be Sung by Men as well as Boyes or Weomen (to avoid the late Complaint againſt our uſe of ſo many various Cliffs.) And the <hi>Engliſh Anthems</hi> have often been Sung in ſeverall Cathedral Churches and Colledge Chappels where there are two eminent Voices.</p>
+                  <p>My End and Hopes are the Promotion of the Divine Uſe of MUSICK, To the Honour of HIM whoſe Gift it is to Mankind to Sing HIS Praiſes here on Earth, that they may Hereafter Sing Eternal <hi>HALLELUJAH's</hi> with the Bleſſed Saints and Angels in Everlaſting Glory,</p>
+                  <closer>
+                     <signed>Which will alſo be the Happineſs of <hi>John Playford.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div xml:lang="lat" type="songs">
+                  <pb n="1" facs="tcp:31656:51"/>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>M.</hi> Rich: Dering.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Domine Jeſu Chriſte, <hi>&amp;c.</hi> Te deprecor Mors quae tua Hallelujah, </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">D</seg>
+                        <g ref="char:V">Ʋ</g>O Seraphin clamabant Dominus Deus plena</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="2" facs="tcp:31656:52"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Sacrum Convivium <hi>&amp;c.</hi> recollitur memoria </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">T</seg>Res ſunt qui Teſtimonium <hi>&amp;c.</hi> Pater &amp; Verbum Sanctus Dominus plena &amp;</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="3" facs="tcp:31656:52"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">E</seg>GO ſum Reſurrectio, <hi>&amp;c.</hi> Fuerit vivit Et omnes non morietur </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>Aetatus ſum <hi>&amp;c.</hi> In Domum Domini ſtantes erat In atriis tui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="4" facs="tcp:31656:53"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">H</seg>Ieruſalem quae aedificatur <hi>&amp;c.</hi> Cujus participatio Illucenim Aſcenderunt </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Rich: Dering.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Crux ave ſpes unica <hi>&amp;c.</hi> Dulce linguam Salva praeſentum
+<pb n="5" facs="tcp:31656:53"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Hallelujah, </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Henry Lawes.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">Q</seg>
+                        <g ref="char:V">Ʋ</g>is ſicut Dominus Deus <hi>&amp;c.</hi> Quis ſimilis tui Laudabilis </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="6" facs="tcp:31656:54"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> George Jeffreys.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">E</seg>Rit Gloria Domini <hi>&amp;c.</hi> Laetabitur Dominus Intuetur terram Cantabo </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Chr: Gibbons.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">C</seg>Elebrate Dominum <hi>&amp;c.</hi> Notas facite Canite Jehovae Et laudate eum confabulamini
+<pb n="7" facs="tcp:31656:54"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> In tota terra Magnus Jehovae Et eſt Laudandus Hallelujah, </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="8" facs="tcp:31656:55"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">E</seg>Xaltabo te Domine <hi>&amp;c.</hi> Do<g ref="char:EOLhyphen"/>minus Deus meus Pſallite Domino Hallelujah. </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">A</seg>Vdivit Dominus <hi>&amp;c.</hi> Convertiſti planctum
+<pb n="9" facs="tcp:31656:55"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Vt cantet tibi gloria Hallelujah, </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">D</seg>Eus miſereatur noſtri <hi>&amp;c.</hi> Vt cognoſcamus Confiteantur Laetentur exultent </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="10" facs="tcp:31656:56"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benj: Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">I</seg>Vbilate Deo <hi>&amp;c.</hi> Pſalmum dicite Omnes terra Benedicite Gentes Et auditam facite Hallelujah. </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="11" facs="tcp:31656:56"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">A</seg>Gnoſce Et Divinae Cujus capitis Corporis ſis mem<g ref="char:EOLhyphen"/>bram Tranſlatus es Hallelujah. </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">R</seg>Ecordare Domine <hi>&amp;c.</hi> Aufer ergo </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="12" facs="tcp:31656:57"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <div n="1" type="part">
+                        <head>PARS PRIMA.</head>
+                        <p>
+                           <gap reason="music">
+                              <desc>〈♫〉</desc>
+                           </gap> 
+                           <seg rend="decorInit">O</seg>Mnes Gentes <hi>&amp;c.</hi> Jubilate Deo in voce Quoniam Dominus Subjecit populos Elegit nobis Omnes Gentes </p>
+                     </div>
+                     <div n="2" type="part">
+                        <head>PARS SECUNDA.</head>
+                        <p>
+                           <gap reason="music">
+                              <desc>〈♫〉</desc>
+                           </gap> 
+                           <seg rend="decorInit">A</seg>Scendit Deus in jubilo <hi>&amp;c.</hi>
+                           <pb n="13" facs="tcp:31656:57"/>
+                           <gap reason="music">
+                              <desc>〈♫〉</desc>
+                           </gap> Pſallite Deo noſtro Quoniam Rex omnis terrae Hallelujah. </p>
+                     </div>
+                  </div>
+                  <div type="hymn">
+                     <opener>
+                        <hi>A</hi> 2 <hi>voc.</hi> Trebles or Tenors.
+<byline>Mr. <hi>Matthew Locke.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Domine Jeſu Chriſte, <hi>&amp;c.</hi> Te deprecor morſque tua </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="14" facs="tcp:31656:58"/>
+                     <opener>
+                        <hi>A</hi> 2 <hi>voc.</hi> Trebles or Tenors.
+<byline>Mr. <hi>Matthew Locke.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">C</seg>Antate Domino Canticum novum, <hi>&amp;c.</hi> Cantate Domino Hallelujah. </p>
+                  </div>
+               </div>
+               <div xml:lang="eng" type="songs">
+                  <pb n="15" facs="tcp:31656:58"/>
+                  <head>¶ Here beginneth <hi>Engliſh Anthems</hi> and <hi>Hymnes</hi> for Two Voices to the ORGAN.</head>
+                  <div type="hymn">
+                     <opener>An Anthem for <hi>2</hi> Voc. <hi>Trebles or Tenors.</hi>
+                        <byline>
+                           <hi>Dr.</hi> Chr. Gibbons.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">S</seg>Ing unto the Lord, <hi>&amp;c.</hi> And give thanks For His Anger In His Favour Weeping may endure But Joy cometh Lord, Lord by Thy favour I cryed unto Thee, O Lord, What profit is there in my blood Shall the duſt praiſe Thee? </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="16" facs="tcp:31656:59"/>
+                     <opener>
+                        <hi>Anthem:</hi> 2 <hi>voc.</hi> Trebles or Tenors.
+<byline>Dr. <hi>Chr: Gibbons.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">T</seg>Each me O Lord, the way <hi>&amp;c.</hi> Make me to goe O turn away mine eyes And quicken Thou me Take away the rebuke </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="17" facs="tcp:31656:59"/>
+                     <opener>
+                        <hi>A</hi> 2 <hi>voc.</hi> Trebles or Tenors.
+<byline>Dr. <hi>Chr: Gibbons.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <hi>
+                           <seg rend="decorInit">H</seg>OW long wilt Thou forget me, O Lord,</hi> &amp;c. <hi>How long ſhall mine Enemies</hi> 
+                        <stage>Chorus, a <hi>3</hi> voc.</stage> Conſider and hear me, ô Lord my God, Conſider and hear me, ô Lord my God, Lighten mine eyes that I ſleep not, I ſleep not in Death. <stage>Verſe.</stage> 
+                        <hi>Leſt mine Enemies ſay,</hi> &amp;c. <stage>Chorus: a <hi>3</hi> voc.</stage> I will ſing of the Lord, I will ſing of the Lord, Becauſe He hath dealt ſo lovingly with me: Yea, I will praiſe the name of the Lord moſt higheſt; yea, I will pr <g ref="char:proportion2">∝</g> moſt higheſt, moſt Higheſt.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="18" facs="tcp:31656:60"/>
+                     <opener>
+                        <hi>A</hi> 2 <hi>voc.</hi> Trebles or Tenors.
+<byline>Dr. <hi>Benjamin Rogers.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>Ift up your Heads great Gates, <hi>&amp;c.</hi> Hark, now the Gates, <hi>&amp;c. Hallelujah.</hi> 
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>
+                        <hi>A</hi> 2 <hi>Voc.</hi> Trebles or Tenors.
+<byline>Dr. <hi>Benjamin Rogers.</hi>
+                        </byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ET all with ſweet accord, <hi>&amp;c.</hi> The Nations of the Earth
+<pb n="19" facs="tcp:31656:60"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> In Triumph God aſcends, <hi>&amp;c.</hi> Sing praiſes, ſing <hi>Hallelujah.</hi> 
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Dr.</hi> Benjamin Rogers.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">T</seg>Ell Mankind JEHOVAH Reigns, <hi>&amp;c.</hi> Let the ſmiling Heavens <hi>&amp;c. Hallelujah.</hi> 
+                        <stage>Slow.</stage>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="20" facs="tcp:31656:61"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Mich: Wiſe.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Verſe.</stage> 
+                        <seg rend="decorInit">I</seg> Charge you O Daughters of <hi>Jeruſalem,</hi> &amp;c. <stage>
+                           <hi>Baſs</hi> alone.</stage> What is Thy Beloved, <hi>&amp;c.</hi> 
+                        <stage>
+                           <hi>Cantus</hi> alone.</stage> My Beloved is White <stage>Chorus.</stage> Yea, He is altogether Lovely </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="21" facs="tcp:31656:61"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſs.
+<byline>
+                           <hi>Mr.</hi> John Jackson.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Chorus.</stage> 
+                        <seg rend="decorInit">S</seg>ET up Thy Self, O God, <hi>&amp;c.</hi> And Thy Glory <hi>&amp;c.</hi> 
+                        <stage>Verſ.</stage> My Heart is fixed O God, <hi>&amp;c.</hi> 
+                        <stage>Chorus.</stage> I will Sing and give <hi>&amp;c. <stage>
+                              <hi>Baſs</hi> alone.</stage> Awake up my Glory,</hi> &amp;c. <stage>
+                           <hi>Cantus</hi> alone.</stage> 
+                        <hi>I will give Thanks,</hi> &amp;c. Together. <stage>Chorus.</stage> Set up Thy Self, O God, <hi>&amp;c.</hi> And thy Glory above <hi>Hallelujah.</hi> 
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="22" facs="tcp:31656:62"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſs.
+<byline>
+                           <hi>Mr.</hi> John Jackson.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ET God ariſe, <hi>&amp;c.</hi> Let them alſo that So ſhalt Thou drive But let the Righteous Let them alſo be merry <hi>Hallelujah.</hi> 
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="23" facs="tcp:31656:62"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſſ.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ORD let me know mine end, <hi>&amp;c.</hi> Behold, Thou haſt made For man walks, <hi>&amp;c.</hi> He heaps up riches And now Lord, what is my hope? For I am a Stranger O ſpare me a little, <hi>&amp;c.</hi> 
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="24" facs="tcp:31656:63"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Iſaac Blackwell.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">B</seg>Ehold, how good and joyfull, <hi>&amp;c.</hi> It is like the precious Ointment Like as the Dew of <hi>Hermon. Hal<g ref="char:EOLhyphen"/>lelujah.</hi> 
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>Anthem: a <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Iſaac Blackwell.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">L</seg>ET my Complaint come before Thee Give me under<g ref="char:EOLhyphen"/>ſtanding <hi>&amp;c <stage>Slow.</stage>
+                           <pb n="25" facs="tcp:31656:63"/>
+                           <gap reason="music">
+                              <desc>〈♫〉</desc>
+                           </gap> Hallelujah.</hi> 
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>
+                           <hi>Mr.</hi> Iſaac Blackwell.</byline>
+                     </opener>
+                     <head>
+                        <hi>An Hymn for <hi>Good-Friday.</hi>
+                        </hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">S</seg>EE ſinfull Soul, <hi>&amp;c</hi> O let Thy Death ſecure my Soul, <hi>&amp;c.</hi> 
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="26" facs="tcp:31656:64"/>
+                     <opener>Anthem: <hi>2</hi> voc. Cant. &amp; Baſs.
+<byline>
+                           <hi>Mr.</hi> Matthew Locke.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> How pleaſant and how fair, <hi>&amp;c.</hi> 
+                        <stage>
+                           <hi>Cantus</hi> alone.</stage> 
+                        <hi>Thrice Happy He</hi> 
+                        <stage>Chorus</stage> O Thou Shield of our defence </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="27" facs="tcp:31656:64"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg>UT of the Deep, <hi>&amp;c.</hi> O let Thine Eare If Thou Lord But there is Mercy with Thee <stage>Soft</stage> I look for the Lord O Iſrael, truſt in the Lord <hi>Hallelujah.</hi> 
+                        <stage>Slow.</stage>
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="28" facs="tcp:31656:65"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg> Be joyfull in the Lord all ye Lands, <hi>&amp;c.</hi> Be ye ſure We are His People O goe your wayes <hi>&amp;c.</hi> Be Thankfull unto Him For the Lord is Gracious, <hi>&amp;c.</hi> Glory be to the Father, <hi>&amp;c.</hi> 
+                        <stage>Drag.</stage> As it was in the beginning, <hi>&amp;c. Drag.</hi> 
+                     </p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="29" facs="tcp:31656:65"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">I</seg> Am well╌pleaſed that the Lord, <hi>&amp;c.</hi> That He hath enclined <stage>Alone.</stage> 
+                        <hi>What reward</hi> &amp;c. <stage>Alone.</stage> 
+                        <hi>What reward</hi> &amp;c. <stage>Together.</stage> I will offer to Thee I will thank Thee When I was in Trouble O give Thanks And His mercy endureth A╌men.</p>
+                  </div>
+                  <div type="hymn">
+                     <pb n="30" facs="tcp:31656:66"/>
+                     <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                     </opener>
+                     <head>
+                        <hi>An Anthem of <hi>Thanks-giving.</hi>
+                        </hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <stage>Baſſus <hi>alone.</hi>
+                        </stage> 
+                        <seg rend="decorInit">O</seg> 
+                        <hi>Lord, Thou haſt brought up my Soul</hi> 
+                        <stage>together</stage> 
+                        <hi>Give thanks</hi> 
+                        <stage>Chorus, <hi>a 3 Voc.</hi> The Medius Part.</stage> O come ſing unto the Lord ye Saints of His, And give thanks at the remembrance of his Holineſs, For the Lord is my ſtrength and my Song, And He is become my Sal<g ref="char:EOLhyphen"/>vation. O that men would therefore praiſe the Lord for His Goodneſs, And de<g ref="char:EOLhyphen"/>clare
+<pb n="31" facs="tcp:31656:66"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> the Wonders that He doth for the Children of Men, for the Children of Men. <stage>Verſe <hi>alone.</hi>
+                        </stage> 
+                        <hi>O come hither and hearken</hi> &amp;c. <stage>Baſs <hi>alone.</hi>
+                        </stage> 
+                        <hi>Yea, and brought,</hi> &amp;c. <hi>Therefore lets ſing</hi> 
+                        <stage>
+                           <hi>Chorus: a 3</hi> voc. The Medius Part.</stage> Sing aloud unto God our ſtrength: Make a joyfull noiſe unto the God of Iſ╌ra╌el. O let your Songs be of Him, &amp; praiſe Him: And let your talking be of all His great &amp;
+<pb n="32" facs="tcp:31656:67"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> wondrous Works: For who is God ſave the Lord: Or who is a Rock ſave our God. Bleſſed be the Lord God of Iſrael, from Everlaſting to everlaſting, And let all the People ſay <hi>Amen.</hi> Glory be to the Father, and to the Son, and to the holy Ghoſt: As it was in the begining, &amp; is now, &amp; ever ſhal be, and <g ref="char:proportion2">∝</g> world without end, <hi>A╌men, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>.</hi> 
+                     </p>
+                     <p>There is lately Publiſhed, in a Book in <hi>Folio, <hi>The Pſalms in Four Parts,</hi>
+                        </hi> on the Common Tunes uſed in Pariſh-Churches, with the <hi>Baſs</hi> under the ſeveral Tunes proper to Sing to the <hi>Organ</hi> &amp; <hi>Baſs-Viol: To which is added, <hi>Several Hymns</hi>
+                        </hi> for One Voice to Sing to the ORGAN.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div xml:lang="lat" type="hymn">
+                  <pb n="33" facs="tcp:31656:67"/>
+                  <opener>A <hi>2</hi> voc. Cant. &amp; Baſſ.
+<byline>John Playford.</byline>
+                  </opener>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> 
+                     <seg rend="decorInit">L</seg>Audate Dominum <hi>&amp;c.</hi> 
+                     <stage>Slow.</stage> Laudate Omnes gentes omnes gentes Laudate eum Quoniam confirmata eſt <stage>Slow.</stage> Miſerecordia Et veritas Domini Manet in aeternum <stage>Slow.</stage> 
+                  </p>
+               </div>
+            </body>
+            <back>
+               <div type="table_of_contents">
+                  <pb facs="tcp:31656:68"/>
+                  <list>
+                     <head>A TABLE of the <hi>Latine Hymns</hi> for Two Voices to the ORGAN.</head>
+                     <item>
+                        <hi>O</hi> Domine Jeſu Christe <hi>Cantus &amp; Baſſus. Mr.</hi> Richard Dering. Page. <hi>1</hi>
+                     </item>
+                     <item>Duo Seraphin clamabant <hi>Cantus &amp; Baſſus.</hi> ibid.</item>
+                     <item>O Sacrum Convivium <hi>Cantus &amp; Baſſus.</hi> Page. <hi>2</hi>
+                     </item>
+                     <item>Tres ſunt qui Testimonium <hi>Cantus &amp; Baſſus.</hi> ib.</item>
+                     <item>Ego ſum Reſurrectio &amp; <g ref="char:V">Ʋ</g>ita <hi>Cantus &amp; Baſſus.</hi> Page. <hi>3</hi>
+                     </item>
+                     <item>Laetatus ſum in his quae dicta ſunt <hi>Cantus &amp; Baſſus.</hi> ib.</item>
+                     <item>Hieruſalem quae Edificatur <hi>Cantus &amp; Baſſus.</hi> Page. <hi>4</hi>
+                     </item>
+                     <item>O Rex ave ſpes unica <hi>Cantus &amp; Baſſus. Mr.</hi> Richard Dering. ib.</item>
+                     <item>Quis ſicut Dominus Deus noster <hi>Cantus &amp; Baſſus. Mr.</hi> Henry Lawes. Page. <hi>5</hi>
+                     </item>
+                     <item>Erit Glori a Domini in ſeculum, <hi>Duo Cantus. Mr.</hi> George Jefferyes. Page. <hi>6</hi>
+                     </item>
+                     <item>Celebrate Dominum <hi>Cantus &amp; Baſſus. Dr.</hi> Chriſtopher Gibbons. ib.</item>
+                     <item>Exaltabo te Domine <hi>Cantus &amp; Baſſus. Dr.</hi> Benjamin Rogers. Page. <hi>8</hi>
+                     </item>
+                     <item>Audivit Dominus <hi>Cantus &amp; Baſſus. Dr.</hi> Benjamin Rogers. ib.</item>
+                     <item>Deus miſereatur noſtri <hi>Cantus &amp; Baſſus. Dr.</hi> Benjamin Rogers. Page. <hi>9</hi>
+                     </item>
+                     <item>Jubilate Deo omnis terra <hi>Cantus &amp; Baſſus. Dr.</hi> Benjamin Rogers. Page. <hi>10</hi>
+                     </item>
+                     <item>Ag noſce, O Christiane dignitatem <hi>Cantus &amp; Baſſus. Mr.</hi> Matthew Locke. Page. <hi>11</hi>
+                     </item>
+                     <item>Recordare Domine <hi>Cantus &amp; Baſſus. Mr.</hi> Matthew Locke. ib.</item>
+                     <item>Omnes Gentes plaudite manibus <hi>Cantus &amp; Baſſus. Mr.</hi> Matthew Locke. Page. <hi>12</hi>
+                     </item>
+                     <item>Aſcendit Deus in Jubilo <hi>Cantus &amp; Baſſus. Mr.</hi> Matthew Locke. ib.</item>
+                     <item>O Domine Jeſu Chriſte, <hi>Duo Cantus. Mr.</hi> Matthew Locke. Page. <hi>13</hi>
+                     </item>
+                     <item>Cantate Domino Canticum novum <hi>Duo Cantus. Mr.</hi> Matthew Locke. Page. <hi>14</hi>
+                     </item>
+                     <item>Laudate Dominum omnes gentes <hi>Cantus &amp; Baſſus.</hi> John Playford. Page. <hi>33</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>A <hi>TABLE</hi> of the <hi>Engliſh Anthems</hi> and <hi>Hymnes.</hi>
+                     </head>
+                     <item>SING unto the Lord 2 <hi>Trebles</hi> or <hi>Tenors. Dr.</hi> Chriſtopher Gibbons. <hi>Page.</hi> 15</item>
+                     <item>Teach me O Lord the way 2 <hi>Trebles</hi> or <hi>Tenors. Dr.</hi> Chriſtopher Gibbons. <hi>Page.</hi> 16</item>
+                     <item>How long wilt Thou forget me 2 <hi>Trebles</hi> or <hi>Tenors. Dr.</hi> Chriſtopher Gibbons. <hi>Page.</hi> 17</item>
+                     <item>Lift up your Heads great Gates 2 <hi>Trebles</hi> or <hi>Tenors. Dr.</hi> Benjamin Rogers. <hi>Page.</hi> 18</item>
+                     <item>Let all with ſweet accord 2 <hi>Trebles</hi> or <hi>Tenors. Dr.</hi> Benjamin Rogers. <hi>ib.</hi>
+                     </item>
+                     <item>Tell Mankind <hi>Jehovah</hi> Reigns <hi>Cantus</hi> &amp; <hi>Baſſus. Dr.</hi> Benjamin Rogers. <hi>Page.</hi> 19</item>
+                     <item>I charge you O Daughters <hi>Cantus</hi> &amp; <hi>Baſſus. Mr.</hi> Michael Wiſe. <hi>Page.</hi> 20</item>
+                     <item>Set up Thy Self O God <hi>Cantus</hi> &amp; <hi>Baſſus. Mr.</hi> John Jackſon. <hi>Page.</hi> 21</item>
+                     <item>Let God ariſe, <hi>Cantus</hi> &amp; <hi>Baſſus. Mr.</hi> John Jackſon. <hi>Page.</hi> 22</item>
+                     <item>Lord let me know mine end <hi>Cantus</hi> &amp; <hi>Baſſus. Mr.</hi> Matthew Locke. <hi>Page.</hi> 23</item>
+                     <item>Behold how Good and Joyfull <hi>Cantus</hi> &amp; <hi>Baſſus. Mr.</hi> Iſaac Blackwell. <hi>Page.</hi> 24</item>
+                     <item>Let my Complaint <hi>Cantus</hi> &amp; <hi>Baſſus. Mr.</hi> Iſaac Blackwell. <hi>ib.</hi>
+                     </item>
+                     <item>See ſinfull Soul thy Saviour's <hi>Cantus</hi> &amp; <hi>Baſſus. Mr.</hi> Iſaac Blackwell. <hi>Page.</hi> 25</item>
+                     <item>O how Pleaſant and how Fair <hi>Cantus</hi> &amp; <hi>Baſſus. Mr.</hi> Matthew Locke. <hi>Page.</hi> 26</item>
+                     <item>Out of the Deep <hi>Cantus</hi> &amp; <hi>Baſſus.</hi> John Playford. <hi>Page.</hi> 27</item>
+                     <item>O be Joyfull in the Lord <hi>Cantus</hi> &amp; <hi>Baſſus.</hi> John Playford. <hi>Page.</hi> 28</item>
+                     <item>I am well-pleaſed that the Lord <hi>Cantus</hi> &amp; <hi>Baſſus.</hi> John Playford. <hi>Page.</hi> 29</item>
+                     <item>O Lord, Thou haſt brought up my Soul from the Grave, <hi>Cantus</hi> &amp; <hi>Baſſus.</hi> John Playford. <hi>Page.</hi> 30</item>
+                  </list>
+                  <trailer>FINIS</trailer>
+                  <pb facs="tcp:31656:68"/>
+                  <pb facs="tcp:31656:69"/>
+                  <pb facs="tcp:31656:69"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
